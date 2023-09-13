@@ -5,6 +5,9 @@ import './styles.css'; // Import the Tailwind CSS file
 import Main from "./components/Layout/Main"
 import Home from "./components/Home/Home"
 import Cse from "./components/Cse/Cse"
+import Contact from "./components/Contact/Contact";
+import About from "./components/About/About";
+import Blog from "./components/Blog/Blog";
 import {
   createBrowserRouter,
   RouterProvider,
@@ -32,6 +35,18 @@ const router = createBrowserRouter([
       {
         path:'club',
         element:<Club></Club>
+      },
+      {
+        path:'contact',
+        element:<Contact></Contact>
+      },
+      {
+        path:'about',
+        element:<About></About>
+      },
+      {
+        path:'blog',
+        element:<Blog></Blog>
       }
     ]
   },
