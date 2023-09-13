@@ -60,7 +60,7 @@ function NavBar() {
         </div>
 
         <div className="nav-icon" onClick={handleClick}>
-          <FontAwesomeIcon icon={click ? faTimes : faBars} />
+          <FontAwesomeIcon className="fa-icon" icon={click ? faTimes : faBars} />
         </div>
       </div>
     </nav>
