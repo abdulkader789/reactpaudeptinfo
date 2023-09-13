@@ -10,7 +10,8 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import "./index.css";
-
+import Faculty from "./components/Faculty/Faculty";
+import Club from "./components/Club/Club";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -23,6 +24,14 @@ const router = createBrowserRouter([
       {
         path:"cse",
         element:<Cse></Cse>
+      },
+      {
+        path:'faculty',
+        element:<Faculty></Faculty>
+      },
+      {
+        path:'club',
+        element:<Club></Club>
       }
     ]
   },

@@ -4,9 +4,9 @@ import Cse from '../Cse/Cse'
 import './Home.css'
 const Home = () => {
     return (
-        <div>
+        <div className='home'>
             <Header></Header>
-            <Cse></Cse>
+            {/* <Cse></Cse> */}
         </div>
     );
 };

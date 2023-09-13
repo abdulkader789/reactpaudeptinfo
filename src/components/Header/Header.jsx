@@ -1,46 +1,39 @@
 import React from 'react';
 import './Header.css'
-
-
+import { Link } from 'react-router-dom';
 const Header = () => {
 
 
   return (
-    <div className="bg-white text-black">
-      <header className="header-section py-16 text-center h-96">
-        <h1 className="text-4xl font-bold">Welcome to Our Website</h1>
-        <p className="mt-4 text-lg">Explore and discover amazing things!</p>
-      </header>
-
-      <section className="py-12">
-        <div className="container mx-auto">
-          <h2 className="text-2xl font-semibold mb-4">Featured Content</h2>
-          {/* Add featured content here */}
+ 
+    <section className="showcase">
+      <div className="overlay"></div>
+      <div className='h-full px-5  flex flex-col lg:flex-row md:flex-wrap items-center justify-evenly'>
+     
+      <Link to="/faculty" className='block w-full  md:w-[50%] lg:w-[33%] '>
+        
+        <div className='py-16     border-shadow bg-faculty    relative z-10 flex justify-center items-center '>
+          <h2 className='text-white font-bold text-2xl relative z-20'>Faulty Members</h2>
         </div>
-      </section>
+      </Link>
+      <Link to="club" className='block w-full md:w-[50%] lg:w-[33%] '>
+          <div className='py-16  border-shadow bg-club    relative z-10 flex justify-center items-center'>
+            <h2 className='text-white font-bold text-2xl relative z-20'>Club Members</h2>
+          </div>
+      </Link>
+      <Link to="others" className='block w-full md:w-[50%] lg:w-[33%]'>
+          <div className='py-16  border-shadow bg-others  relative z-10 flex justify-center items-center'>
+            <h2 className='text-white font-bold text-2xl relative z-20'>Other Members</h2>
+          </div>
+      </Link>
+    
 
-      <section className="bg-gray-200 py-12">
-        <div className="container mx-auto">
-          <h2 className="text-2xl font-semibold mb-4">Latest News</h2>
-          {/* Add latest news articles or updates here */}
-        </div>
-      </section>
+      </div>
+ 
 
-      <section className="py-12">
-        <div className="container mx-auto">
-          <h2 className="text-2xl font-semibold mb-4">Get Started</h2>
-          <p className="text-lg">
-            Ready to get started? Learn more about our services and offerings.
-          </p>
-          <a
-            href="/about"
-            className="mt-4 px-6 py-3 bg-blue-500 text-white rounded-full inline-block hover:bg-blue-600"
-          >
-            Learn More
-          </a>
-        </div>
-      </section>
-    </div>
+</section>
+
+
     
 
 
