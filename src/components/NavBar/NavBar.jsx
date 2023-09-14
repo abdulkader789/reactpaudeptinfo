@@ -11,6 +11,7 @@ function NavBar() {
   const handleClick = () => setClick(!click);
 
   return (
+    <section>      <div className="h-10 w-full bg-topnav"></div>
     <nav className="navbar">
       <div className="nav-container">
         <NavLink exact="true" to="/" className="nav-logo">
@@ -64,6 +65,7 @@ function NavBar() {
         </div>
       </div>
     </nav>
+    </section>
   );
 }
 
