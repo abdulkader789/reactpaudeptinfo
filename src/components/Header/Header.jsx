@@ -8,7 +8,7 @@ const Header = () => {
  
     <section className="showcase">
       <div className="overlay"></div>
-      <div className='absolute h-full w-full z-10 flex'>
+      <div className='absolute h-full w-full z-10 flex items-center'>
         <div className=''>
           <h1 className='text-white '><span className='font-bold text-3xl'>Welcome to</span><br></br>
           <span className='font-extrabold text-5xl'>Primeasia University</span><br></br>

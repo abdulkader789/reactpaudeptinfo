@@ -32,31 +32,31 @@ function Paudeptinfo() {
   };
 
   return (
-    <div className='flex relative'>
+    <div className='flex relative paudeptinfo'>
       <div className='w-[30%]  sidebar h-[83.9vh] stick bg-green-600'>
         <button
           id='buttonOne'
           onClick={handleClick}
-          className='bg-green-600 text-white px-10 py-4 w-full'
+          className='bg-green-600 text-white px-2 md:px-10 py-4 w-full text-left'
         >
           Faulties
         </button>
         <button
           id='buttonTwo'
           onClick={handleClick}
-          className='bg-green-600 text-white px-10 py-4 w-full'
+          className='bg-green-600 text-white px-2 md:px-10 py-4 w-full text-left'
         >
           Students
         </button>
         <button
           id='buttonThree'
           onClick={handleClick}
-          className='bg-green-600 text-white px-10 py-4 w-full'
+          className='bg-green-600 text-white px-2 md:px-10 py-4 w-full text-left'
         >
           Others
         </button>
       </div>
-      <div className='w-[70%] flex flex-col px-20  pt-2'>
+      <div className='w-[70%] flex flex-col md:px-10  pt-2'>
         <form className='stick'>
           <label htmlFor="default-search" className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">Search</label>
           <div className="relative">
