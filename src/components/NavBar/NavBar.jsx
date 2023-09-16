@@ -74,7 +74,7 @@ function NavBar() {
           <div className={`nav-menu ${click ? "active" : ""}`}>
             <ul className="nav-list ">
              
-              <li className="close-btn" onClick={handleClick}><FontAwesomeIcon className="fa-icon" icon={click ? faTimes : faBars} />
+              <li className="close-btn cursor-pointer" onClick={handleClick}><FontAwesomeIcon className="fa-icon" icon={click ? faTimes : faBars} />
          </li>
               <li className="nav-item">
                 <NavLink exact="true" to="/" onClick={handleClick}>
