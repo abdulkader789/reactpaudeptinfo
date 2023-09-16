@@ -1,23 +1,22 @@
 .showcase {
   background-image: url("https://www.primeasia.edu.bd/resources/images/home/primeasiafuter.jpg");
-  height: 80.6vh;
+  height: 83.9vh;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
-.info {
-  z-index: 10;
-}
+
 .overlay {
   position: absolute;
+  z-index: 2;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
   background-color: rgba(
-    223,
-    192,
-    154,
+    1,
+    1,
+    1,
     0.4
   ); /* Adjust the color and opacity as needed */
 }
@@ -33,33 +32,4 @@
 }
 .bg-others {
   background: #facf5a;
-}
-
-.glassy-button {
-  display: inline-block;
-  padding: 10px 20px;
-  font-size: 16px;
-  width: 100%;
-  background: rgba(
-    255,
-    255,
-    255,
-    0.2
-  ); /* Adjust the opacity (4th value) as needed */
-  backdrop-filter: blur(10px); /* Adjust the blur amount as needed */
-  border: none;
-
-  color: #fff; /* Text color */
-  cursor: pointer;
-  transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
-}
-
-.glassy-button:hover {
-  background: rgba(
-    255,
-    255,
-    255,
-    0.4
-  ); /* Adjust the opacity (4th value) as needed */
-  color: #000; /* Text color on hover */
 }

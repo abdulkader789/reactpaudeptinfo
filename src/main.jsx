@@ -8,6 +8,7 @@ import Cse from "./components/Cse/Cse"
 import Contact from "./components/Contact/Contact";
 import About from "./components/About/About";
 import Blog from "./components/Blog/Blog";
+import Paudeptinfo from "./components/Paudeptinfo/Paudeptinfo";
 import {
   createBrowserRouter,
   RouterProvider,
@@ -47,6 +48,10 @@ const router = createBrowserRouter([
       {
         path:'blog',
         element:<Blog></Blog>
+      },
+      {
+        path:'paudeptinfo',
+        element:<Paudeptinfo></Paudeptinfo>
       }
     ]
   },

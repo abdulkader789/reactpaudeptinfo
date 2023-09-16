@@ -1,0 +1,8 @@
+.sidebar {
+  border-right: 2px solid rgb(246, 233, 233);
+}
+.stick {
+  position: sticky;
+  z-index: 1;
+  top: 60px;
+}

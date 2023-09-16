@@ -1,28 +1,39 @@
-.bg-topnav {
+.topNav {
   background-color: #07486e;
+  position: sticky;
+  top: 0;
+  z-index: 10; /* Ensure it's behind the main navigation */
 }
 
 .navbar {
   background-color: #f9f6f6;
-  height: 80px;
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 1.2rem;
-  position: sticky;
+  height: 60px;
   top: 0;
   z-index: 20;
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
 }
+
+/* Rest of your styles */
 
 .nav-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  height: 80px;
+  height: 60px;
   max-width: 1500px;
 }
-
+.close-btn {
+  display: none;
+  margin-top: 20px;
+  color: black;
+}
 .nav-logo {
   color: #07486e;
   align-items: center;
@@ -82,22 +93,24 @@
   .nav-menu {
     display: flex;
     flex-direction: column;
-    width: 200px;
+    width: 90%;
     border-top: 1pxsolid #fff;
     position: absolute;
-    top: 80px;
+    top: 0;
     left: -110%;
     opacity: 1;
     transition: all 0.5s ease;
-    height: 80vh;
+    height: 100vh;
   }
-
+  .close-btn {
+    display: block;
+  }
   .nav-menu.active {
     background: #34c999;
     left: 0px;
     opacity: 1;
     transition: all 0.5s ease;
-    z-index: 1;
+    z-index: 250;
   }
 
   .nav-list {
@@ -117,11 +130,11 @@
   }
   .nav-icon {
     display: block;
-    position: absolute;
+    position: relative;
     top: 0;
     right: 0;
-    transform: translate(-100%, 20%);
-    font-size: 1.8rem;
+    transform: translate(-100%, 0%);
+    font-size: 1.2rem;
     cursor: pointer;
     color: #0b2686;
   }
