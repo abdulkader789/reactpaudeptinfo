@@ -1,11 +1,14 @@
 .showcase {
   background-image: url("https://www.primeasia.edu.bd/resources/images/home/primeasiafuter.jpg");
-  height: 83.9vh;
+  height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  box-sizing: border-box;
 }
-
+.red-border {
+  border: 2px solid rgb(85, 171, 57);
+}
 .overlay {
   position: absolute;
   z-index: 2;
@@ -24,12 +27,127 @@
   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   border-radius: 4px;
 }
-.bg-faculty {
-  background: #42b883;
+
+.button-contact {
+  all: unset;
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding: 10px 16px;
+  border: mediumspringgreen solid 0.15em;
+  border-radius: 0.25em;
+  color: mediumspringgreen;
+  font-size: 1.5em;
+  font-weight: 600;
+  cursor: pointer;
+  overflow: hidden;
+  transition: border 300ms, color 300ms;
+  user-select: none;
 }
-.bg-club {
-  background: #f67280;
+
+.button-contact p {
+  z-index: 1;
 }
-.bg-others {
-  background: #facf5a;
+
+.button-contact:hover {
+  color: #212121;
+}
+
+.button-contact:active {
+  border-color: teal;
+}
+
+.button-contact::after,
+.button-contact::before {
+  content: "";
+  position: absolute;
+  width: 9em;
+  aspect-ratio: 1;
+  background: mediumspringgreen;
+  opacity: 50%;
+  border-radius: 50%;
+  transition: transform 500ms, background 300ms;
+}
+
+.button-contact::before {
+  left: 0;
+  transform: translateX(-8em);
+}
+
+.button-contact::after {
+  right: 0;
+  transform: translateX(8em);
+}
+
+.button-contact:hover:before {
+  transform: translateX(-1em);
+}
+
+.button-contact:hover:after {
+  transform: translateX(1em);
+}
+
+.button-contact:active:before,
+.button-contact:active:after {
+  background: teal;
+}
+.button-info {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  background: #183153;
+  font-family: "Montserrat", sans-serif;
+  box-shadow: 0px 6px 24px 0px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  border: none;
+}
+
+.button-info:after {
+  content: " ";
+  width: 0%;
+  height: 100%;
+  background: #ffd401;
+  position: absolute;
+  transition: all 0.4s ease-in-out;
+  right: 0;
+}
+
+.button-info:hover::after {
+  right: auto;
+  left: 0;
+  width: 100%;
+}
+
+.button-info span {
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+  padding: 18px 25px;
+  color: #fff;
+  font-size: 1.125em;
+  font-weight: 700;
+  letter-spacing: 0.3em;
+  z-index: 20;
+  transition: all 0.3s ease-in-out;
+}
+
+.button-info:hover span {
+  color: #183153;
+  animation: scaleUp 0.3s ease-in-out;
+}
+
+@keyframes scaleUp {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(0.95);
+  }
+
+  100% {
+    transform: scale(1);
+  }
 }

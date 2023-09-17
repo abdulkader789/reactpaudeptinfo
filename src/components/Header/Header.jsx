@@ -1,23 +1,53 @@
 import React from 'react';
 import './Header.css'
 import { Link } from 'react-router-dom';
+import TextAnimation from '../TextAnimation/TextAnimation';
+import Carousel from '../Carousel/Carousel';
 const Header = () => {
-
+  const texts = [
+    'visualization',
+    'exploring data',
+    'live code',
+    'the web',
+    'interactive essays',
+    'clear computation',
+    'learning algorithms',
+    'coding together',
+  ];
 
   return (
  
-    <section className="showcase">
+    <section className="showcase ">
       <div className="overlay"></div>
-      <div className='absolute h-full w-full z-10 flex items-center'>
-        <div className=''>
-          <h1 className='text-white '><span className='font-bold text-3xl'>Welcome to</span><br></br>
-          <span className='font-extrabold text-5xl'>Primeasia University</span><br></br>
-          <span className='font-bold text-3xl'>Department Info</span></h1>
-          <Link to='/paudeptinfo'><button className='relative left-8 top-10 h-12 bg-green-400 font-semibold text-lg w-40 text-gray-100'>Get Info</button>
-        </Link>
+      <div className='relative  
+      red-border h-full w-full z-10 flex flex-col md:flex-row justify-center items-center'>
+
+         <section className='red-border text-section flex flex-col justify-evenly items-center   w-[100%] h-[50%] md:w-[50%] md:h-[100%] '>
+         
+         <div className='flex flex-row justify-center items-center'>
+          <h1 className='font-extrabold text-5xl text-white'>We are</h1>
+         <TextAnimation  texts={texts} />
+         </div>
+
+          <div className='button-section w-full flex justify-evenly items-center'>
+          
+          <button className="button-contact">
+            <p>Contact Us</p>
+          </button>
+          <button className='button-info'>
+  <span>BUTTON</span>
+</button>
+        </div> 
+          </section>
+
+          <section className='red-border flex justify-center items-center carousel-section w-[100%] h-[50%] md:w-[50%] md:h-[100%]'>
+              <Carousel ></Carousel>
+          </section>
+          
+
+
         </div>
-       
-      </div>
+   
  
 
 </section>

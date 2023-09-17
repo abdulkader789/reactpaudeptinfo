@@ -1,36 +1,30 @@
 import React from 'react';
 import './Blog.css'
+import Carousel from '../Carousel/Carousel';
 const Blog = () => {
     return (
-       
-<div class="blog-container pb-16">
+      <Carousel></Carousel>
+//  <section className='p-40'>
   
-  <div class="blog-header">
-    <div class="blog-cover">
-      <div class="blog-author">
-        <h3>Russ Beye</h3>
-      </div>
-    </div>
-  </div>
 
-  <div class="blog-body">
-    <div class="blog-title text-center mb-3">
-      <h1><a href="#">I Like To Make Cool Things</a></h1>
-    </div>
-    <div class="blog-summary">
-      <p>I love working on fresh designs that <a href="https://www.youtube.com">breathe</a>. To that end, I need to freshen up my portfolio here because it does exactly the opposite. For the next month I will be working almost exclusively on my portfolio. Sounds like a lot of fun!</p>
-    </div>
-    <div class="blog-tags">
-      <ul>
-        <li><a href="#">css</a></li>
-        <li><a href="#">web design</a></li>
-        <li><a href="#">codepen</a></li>
-        <li><a href="https://twitter.con">twitter</a></li>
-      </ul>
-    </div>
-  </div>
-  </div>
+// <button class="btn">
+//   <svg width="40" height="40" fill="#0092E4" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 24 24" id="github">
+//     <path d="M12,2.2467A10.00042,10.00042,0,0,0,8.83752,21.73419c.5.08752.6875-.21247.6875-.475,0-.23749-.01251-1.025-.01251-1.86249C7,19.85919,6.35,18.78423,6.15,18.22173A3.636,3.636,0,0,0,5.125,16.8092c-.35-.1875-.85-.65-.01251-.66248A2.00117,2.00117,0,0,1,6.65,17.17169a2.13742,2.13742,0,0,0,2.91248.825A2.10376,2.10376,0,0,1,10.2,16.65923c-2.225-.25-4.55-1.11254-4.55-4.9375a3.89187,3.89187,0,0,1,1.025-2.6875,3.59373,3.59373,0,0,1,.1-2.65s.83747-.26251,2.75,1.025a9.42747,9.42747,0,0,1,5,0c1.91248-1.3,2.75-1.025,2.75-1.025a3.59323,3.59323,0,0,1,.1,2.65,3.869,3.869,0,0,1,1.025,2.6875c0,3.83747-2.33752,4.6875-4.5625,4.9375a2.36814,2.36814,0,0,1,.675,1.85c0,1.33752-.01251,2.41248-.01251,2.75,0,.26251.1875.575.6875.475A10.0053,10.0053,0,0,0,12,2.2467Z"></path>
+//   </svg>
+// </button>
 
+// <button class="btn">
+//   <svg width="40" height="40" fill="#0e76a8" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 24 24" id="linkedin">
+//     <path d="M4,22H7V10H4ZM5.5,8.5a2,2,0,1,1-2,2A2,2,0,0,1,5.5,8.5ZM22,22h3V15.57L22,15.57ZM20,14a2.35,2.35,0,0,0-.5-.07,2,2,0,0,0-2,2v7H15V10h2v1.24h.03a3,3,0,0,1,2.66-1.47c2.84,0,3.35,1.87,3.35,4.3Z"></path>
+//   </svg>
+// </button>
+// <button class="btn">
+//   <svg width="40" height="40" fill="#1877f2" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 24 24" id="facebook">
+//     <path d="M12,2.2467A10.00042,10.00042,0,0,0,8.83752,21.73419c.5.08752.6875-.21247.6875-.475,0-.23749-.01251-1.025-.01251-1.86249C7,19.85919,6.35,18.78423,6.15,18.22173A3.636,3.636,0,0,0,5.125,16.8092c-.35-.1875-.85-.65-.01251-.66248A2.00117,2.00117,0,0,1,6.65,17.17169a2.13742,2.13742,0,0,0,2.91248.825A2.10376,2.10376,0,0,1,10.2,16.65923c-2.225-.25-4.55-1.11254-4.55-4.9375a3.89187,3.89187,0,0,1,1.025-2.6875,3.59373,3.59373,0,0,1,.1-2.65s.83747-.26251,2.75,1.025a9.42747,9.42747,0,0,1,5,0c1.91248-1.3,2.75-1.025,2.75-1.025a3.59323,3.59323,0,0,1,.1,2.65,3.869,3.869,0,0,1,1.025,2.6875c0,3.83747-2.33752,4.6875-4.5625,4.9375a2.36814,2.36814,0,0,1,.675,1.85c0,1.33752-.01251,2.41248-.01251,2.75,0,.26251.1875.575.6875.475A10.0053,10.0053,0,0,0,12,2.2467Z"></path>
+//   </svg>
+// </button>
+
+// </section>
 
     )
 };
