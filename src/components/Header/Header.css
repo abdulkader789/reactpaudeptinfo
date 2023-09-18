@@ -27,127 +27,103 @@
   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   border-radius: 4px;
 }
-
-.button-contact {
-  all: unset;
-  display: flex;
-  align-items: center;
+button {
+  --color: #560bad;
+  font-family: inherit;
+  display: inline-block;
+  width: 8em;
+  height: 2.6em;
+  line-height: 2.5em;
+  margin: 20px;
   position: relative;
-  padding: 10px 16px;
-  border: mediumspringgreen solid 0.15em;
-  border-radius: 0.25em;
-  color: mediumspringgreen;
-  font-size: 1.5em;
-  font-weight: 600;
-  cursor: pointer;
   overflow: hidden;
-  transition: border 300ms, color 300ms;
-  user-select: none;
+  border: 2px solid var(--color);
+  transition: color 0.5s;
+  z-index: 1;
+  font-size: 17px;
+  border-radius: 6px;
+  font-weight: 500;
+  color: var(--color);
 }
 
-.button-contact p {
+button:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  background: var(--color);
+  height: 150px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+button:hover {
+  color: #fff;
+}
+
+button:before {
+  top: 100%;
+  left: 100%;
+  transition: all 0.7s;
+}
+
+button:hover:before {
+  top: -30px;
+  left: -30px;
+}
+
+button:active:before {
+  background: #3a0ca3;
+  transition: background 0s;
+}
+
+/* From uiverse.io by @Ali-Tahmazi99 */
+button {
+  display: inline-block;
+  width: 150px;
+  height: 50px;
+  border-radius: 10px;
+  border: 1px solid #03045e;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.5s ease-in;
   z-index: 1;
 }
 
-.button-contact:hover {
-  color: #212121;
-}
-
-.button-contact:active {
-  border-color: teal;
-}
-
-.button-contact::after,
-.button-contact::before {
+button::before,
+button::after {
   content: "";
   position: absolute;
-  width: 9em;
-  aspect-ratio: 1;
-  background: mediumspringgreen;
-  opacity: 50%;
-  border-radius: 50%;
-  transition: transform 500ms, background 300ms;
-}
-
-.button-contact::before {
-  left: 0;
-  transform: translateX(-8em);
-}
-
-.button-contact::after {
-  right: 0;
-  transform: translateX(8em);
-}
-
-.button-contact:hover:before {
-  transform: translateX(-1em);
-}
-
-.button-contact:hover:after {
-  transform: translateX(1em);
-}
-
-.button-contact:active:before,
-.button-contact:active:after {
-  background: teal;
-}
-.button-info {
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 5px;
-  background: #183153;
-  font-family: "Montserrat", sans-serif;
-  box-shadow: 0px 6px 24px 0px rgba(0, 0, 0, 0.2);
-  overflow: hidden;
-  border: none;
-}
-
-.button-info:after {
-  content: " ";
-  width: 0%;
+  top: 0;
+  width: 0;
   height: 100%;
-  background: #ffd401;
-  position: absolute;
-  transition: all 0.4s ease-in-out;
-  right: 0;
+  transform: skew(15deg);
+  transition: all 0.5s;
+  overflow: hidden;
+  z-index: -1;
 }
 
-.button-info:hover::after {
-  right: auto;
-  left: 0;
-  width: 100%;
+button::before {
+  left: -10px;
+  background: #240046;
 }
 
-.button-info span {
-  text-align: center;
-  text-decoration: none;
-  width: 100%;
-  padding: 18px 25px;
-  color: #fff;
-  font-size: 1.125em;
-  font-weight: 700;
-  letter-spacing: 0.3em;
-  z-index: 20;
-  transition: all 0.3s ease-in-out;
+button::after {
+  right: -10px;
+  background: #5a189a;
 }
 
-.button-info:hover span {
-  color: #183153;
-  animation: scaleUp 0.3s ease-in-out;
+button:hover::before,
+button:hover::after {
+  width: 58%;
 }
 
-@keyframes scaleUp {
-  0% {
-    transform: scale(1);
-  }
+button:hover span {
+  color: #e0aaff;
+  transition: 0.3s;
+}
 
-  50% {
-    transform: scale(0.95);
-  }
-
-  100% {
-    transform: scale(1);
-  }
+button span {
+  color: #03045e;
+  font-size: 18px;
+  transition: all 0.3s ease-in;
 }

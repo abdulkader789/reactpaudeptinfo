@@ -41,12 +41,9 @@ const TextAnimation = ({ texts }) => {
 
   return (
     <div className="text-animation">
-      <h1 className='font-extrabold text-5xl text-white'>{displayedText}</h1>
+      <h1 className='font-extrabold text-5xl text-white'>{displayedText}<span className='font-medium text-green-500'>l</span></h1>
     </div>
   );
 };
-
-
-
 
 export default TextAnimation;

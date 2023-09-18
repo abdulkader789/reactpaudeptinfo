@@ -24,18 +24,18 @@ const Header = () => {
 
          <section className='red-border text-section flex flex-col justify-evenly items-center   w-[100%] h-[50%] md:w-[50%] md:h-[100%] '>
          
-         <div className='flex flex-row justify-center items-center'>
+         <div className=''>
           <h1 className='font-extrabold text-5xl text-white'>We are</h1>
-         <TextAnimation  texts={texts} />
+              <TextAnimation  texts={texts} />
          </div>
 
           <div className='button-section w-full flex justify-evenly items-center'>
           
-          <button className="button-contact">
-            <p>Contact Us</p>
-          </button>
-          <button className='button-info'>
-  <span>BUTTON</span>
+          <button> Hover me
+</button>
+<button>
+  <span> Button
+  </span>
 </button>
         </div> 
           </section>
