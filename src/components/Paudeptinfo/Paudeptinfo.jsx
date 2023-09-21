@@ -41,7 +41,7 @@ function Paudeptinfo() {
 
           </div>  
     <div className='flex relative'>
-      <div className='w-[30%] md:w-[300px] box-border   h-[83.9vh] stick '>
+      <div className='w-[30%] md:w-[300px] border border-r-2 shadow-lg   h-[83.9vh] stick '>
         <button
           id='buttonOne'
           onClick={handleClick}

@@ -1,41 +1,46 @@
 import React, { useEffect, useState } from 'react';
 import './Carousel.css';
+import pau1 from '../../assets/pau1.jpg'
+import pau2 from '../../assets/pau2.jpg'
+import pau3 from '../../assets/pau3.jpg'
+import pau4 from '../../assets/pau4.jpg'
+import pau5 from '../../assets/pau5.jpeg'
 
 function Carousel() {
   return (
     <div id="default-carousel" className="relative w-full" data-carousel="slide">
-      <div className="relative h-56 overflow-hidden rounded-lg md:h-96">
+      <div className="relative h-56 overflow-hidden rounded-sm md:h-96">
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111.jpg"
+          src={pau1}
             className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="..."
           />
         </div>
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111.jpg"
+          src={pau2}
+            className="absolute block w-full h-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+            alt="..."
+          />
+        </div>
+        <div className="hidden duration-700 ease-in-out" data-carousel-item>
+          <img
+          src={pau3}
             className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="..."
           />
         </div>
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111.jpg"
+          src={pau4}
             className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="..."
           />
         </div>
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
           <img
-            src="https://thumbs.dreamstime.com/b/beautiful-rain-forest-ang-ka-nature-trail-doi-inthanon-national-park-thailand-36703721.jpg"
-            className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
-            alt="..."
-          />
-        </div>
-        <div className="hidden duration-700 ease-in-out" data-carousel-item>
-          <img
-            src="https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=170667a&w=0&k=20&c=vKqLcyX0Qlrh8A351AA3-h2s5P46CZjh8JR6_QyV-D4="
+            src={pau5}
             className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
             alt="..."
           />

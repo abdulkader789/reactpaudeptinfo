@@ -5,8 +5,8 @@ import TextAnimation from '../TextAnimation/TextAnimation';
 import Carousel from '../Carousel/Carousel';
 const Header = () => {
   const texts = [
-    'visualization',
-    'exploring data',
+    'research and innovation',
+    'expand campus facilities',
     'live code',
     'the web',
     'interactive essays',
@@ -20,27 +20,22 @@ const Header = () => {
     <section className="showcase ">
       <div className="overlay"></div>
       <div className='relative  
-      red-border h-full w-full z-10 flex flex-col md:flex-row justify-center items-center'>
+     h-full w-full z-10 flex flex-col justify-center items-center'>
 
-         <section className='red-border text-section flex flex-col justify-evenly items-center   w-[100%] h-[50%] md:w-[50%] md:h-[100%] '>
+         <section className=' text-section flex flex-col justify-evenly items-center   w-[100%] '>
          
-         <div className=''>
-          <h1 className='font-extrabold text-5xl text-white'>We are</h1>
+         <div className='relative top-5'>
               <TextAnimation  texts={texts} />
          </div>
 
-          <div className='button-section w-full flex justify-evenly items-center'>
+          {/* <div className='button-section w-full flex justify-evenly items-center'>
           
-          <button> Hover me
-</button>
-<button>
-  <span> Button
-  </span>
-</button>
-        </div> 
+          <button> Hover me</button>
+          <button><span> Button</span></button>
+        </div>  */}
           </section>
 
-          <section className='red-border flex justify-center items-center carousel-section w-[100%] h-[50%] md:w-[50%] md:h-[100%]'>
+          <section className='relative top-14 flex justify-center items-center carousel-section w-[100%] px-48'>
               <Carousel ></Carousel>
           </section>
           

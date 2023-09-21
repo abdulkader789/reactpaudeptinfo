@@ -66,7 +66,7 @@ function NavBar() {
       </div>
       <nav className="navbar">
         <div className="nav-container">
-          <NavLink exact="true" to="/" className="nav-logo">
+          <NavLink exact="true" to="/" className="nav-logo text-black bg-white px-1 rounded">
             PAUDEPTINFO
             <FontAwesomeIcon icon={faCode} className="code-icon" />
           </NavLink>
