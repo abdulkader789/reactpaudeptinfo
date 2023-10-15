@@ -1,141 +1,19 @@
-.topNav {
-  background-color: #07486e;
-  position: sticky;
-  top: 0;
-  z-index: 10; /* Ensure it's behind the main navigation */
-}
-.mainContainer {
-  position: absolute;
-  width: 100%;
-}
-.navbar {
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 1.2rem;
-  height: 60px;
-
-  z-index: 20;
-  width: 100%;
-  background-color: rgba(0, 0, 0, 0.1);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-/* Rest of your styles */
-
-.nav-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-  height: 60px;
-  max-width: 1500px;
-}
-.close-btn {
-  display: none;
-  margin-top: 20px;
-  color: black;
-}
-.nav-logo {
-  align-items: center;
-  margin-left: 20px;
-  cursor: pointer;
-  text-decoration: none;
-  font-size: 1.5rem;
-}
-
-.nav-menu {
-  display: flex;
-  list-style: none;
-  text-align: center;
-  margin-right: 2rem;
-
-  width: 60%;
-}
-.nav-list {
-  display: flex;
-  width: 100%;
-  justify-content: space-evenly;
-  color: rgb(254, 249, 249);
-}
-.nav-links {
-  color: #fff;
-  text-decoration: none;
-  padding: 0.5rem 1rem;
-  height: 100%;
-  border-bottom: 3px solid transparent;
-}
-
-.nav-item {
-  line-height: 40px;
-  margin-right: 1rem;
-}
-
-.nav-item:after {
-  content: "";
-  display: block;
-  height: 3px;
-  width: 0;
-  background: transparent;
-  transition: width 0.7s ease, background-color 0.5s ease;
-}
-
-.nav-item:hover:after {
-  width: 100%;
-  background: #ffdd40;
-}
-
-.nav-icon {
-  display: none;
-}
-
-@media screen and (max-width: 960px) {
-  .nav-menu {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    border-top: 1pxsolid #fff;
-    position: absolute;
-    top: 0;
-    left: -110%;
-    opacity: 1;
-    transition: all 0.5s ease;
-    height: 100vh;
-  }
-  .close-btn {
-    display: block;
-  }
-  .nav-menu.active {
-    background: #34c999;
-    left: 0px;
-    opacity: 1;
-    transition: all 0.5s ease;
-    z-index: 250;
+@media (max-width: 640px) {
+  /* Add this to your CSS file */
+  .slide-in {
+    left: 0;
+    transition: left 0.5s;
   }
 
-  .nav-list {
-    display: block;
-    color: rgb(255, 252, 252);
-  }
-  .nav-links {
-    padding: 1.5rem;
-    width: 100%;
-    display: table;
-  }
-  .nav-logo {
-    font-size: 1rem;
-  }
-  .fa-icon {
-    font-size: 1.5rem;
-  }
-  .nav-icon {
-    display: block;
-    position: relative;
-    top: 0;
-    right: 0;
-    transform: translate(-100%, 0%);
-    font-size: 1.2rem;
-    cursor: pointer;
-    color: #edeef0;
+  /* Initial position off the screen to the right */
+  .slide-out {
+    left: -100vw;
+    transition: left 0.5s;
   }
 }

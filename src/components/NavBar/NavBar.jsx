@@ -1,117 +1,83 @@
-import React, { useState, useEffect } from "react";
-import { NavLink } from "react-router-dom";
-import "./NavBar.css";
+import { useState } from 'react';
+import { Link } from 'react-router-dom';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import {
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCode, faTimes, faBars } from "@fortawesome/free-solid-svg-icons";
-import { faFacebook, faTwitter, faInstagram } from '@fortawesome/free-brands-svg-icons';
+  faBars,
 
+  faTimes,
 
+} from '@fortawesome/free-solid-svg-icons';
+import './NavBar.css'
+const NavBar = () => {
+  const [isNavOpen, setIsNavOpen] = useState(false);
 
-function NavBar() {
-  const [click, setClick] = useState(false);
-
-  const handleClick = () => setClick(!click);
-
-  useEffect(() => {
-    const handleScroll = () => {
-      const topNav = document.querySelector(".topNav");
-      const navbar = document.querySelector(".navbar");
-      
-  
-      if (topNav && navbar) {
-        const topNavHeight = topNav.clientHeight;
-  
-        // Check the scroll position
-        if (window.scrollY > topNavHeight) {
-          // Hide the top navigation bar
-          topNav.style.display = 'none';
-        
-          // Make the main navigation bar sticky
-          navbar.style.position = 'fixed';
-          navbar.style.top = '0';
-          navbar.style.zIndex = '20';
-         navbar.style.backgroundColor = 'rgba(0, 0, 0, 0.9)'; // Semi-transparent black
-          // Add bottom margin to the navbar
-        } else {
-          // Show the top navigation bar
-          topNav.style.display = 'flex';
-        
-          // Reset the main navigation bar styles
-          navbar.style.position = 'sticky';
-          navbar.style.top = '';
-          navbar.style.zIndex = '20';
-          navbar.style.backgroundColor = 'rgba(0, 0, 0, 0.1)'; // Semi-transparent black
-   
-        }
-      }
-
-    };
-  
-    window.addEventListener("scroll", handleScroll);
-  
-    return () => {
-      window.removeEventListener("scroll", handleScroll);
-    };
-  }, []);
-  
+  const toggleNav = () => {
+    setIsNavOpen(!isNavOpen);
+  };
 
   return (
-    <section className="relative mainContainer">
-      <div className="h-10 w-full topNav flex justify-around items-center">
-      <FontAwesomeIcon icon={faFacebook} className="code-icon text-white" />
-      <FontAwesomeIcon icon={faTwitter} className="code-icon text-white" />
-      <FontAwesomeIcon icon={faInstagram} className="code-icon text-white" />
-
+    <div className=' flex py-3  relative justify-between bg-[#fafafa] nav-bg text-black'>
+      <div className="relative flex justify-center items-center w-60">
+        <h2 className='uppercase font-bold text-xl'>
+          <Link to="/">explorer.com</Link>
+        </h2>
       </div>
-      <nav className="navbar">
-        <div className="nav-container">
-          <NavLink exact="true" to="/" className="nav-logo text-black bg-white px-1 rounded">
-            PAUDEPTINFO
-            <FontAwesomeIcon icon={faCode} className="code-icon" />
-          </NavLink>
 
-          <div className={`nav-menu ${click ? "active" : ""}`}>
-            <ul className="nav-list ">
-             
-              <li className="close-btn cursor-pointer" onClick={handleClick}><FontAwesomeIcon className="fa-icon" icon={click ? faTimes : faBars} />
-         </li>
-              <li className="nav-item">
-                <NavLink exact="true" to="/" onClick={handleClick}>
-                  Home
-                </NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink exact="true" to="/paudeptinfo" onClick={handleClick}>
-                  Get Info
-                </NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink exact="true" to="/about" onClick={handleClick}>
-                  About
-                </NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink exact="true" to="/blog" onClick={handleClick}>
-                  Blog
-                </NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink exact="true" to="/contact" onClick={handleClick}>
-                  Contact Us
-                </NavLink>
-              </li>
-              
-            </ul>
+      <nav className={`flex p-5 bg-[#201d1d] text-white sm:text-inherit sm:bg-inherit sm:p-0 h-screen sm:h-auto nav-bg absolute w-[300px] sm:w-full sm:relative z-10  top-0 sm:top-auto flex-col sm:flex-row ${isNavOpen ? 'slide-in' : 'slide-out'
+        }`}>
+        <ul className='flex  flex-col sm:flex-row justify-evenly w-full relative '>
+          <div className="w-32 justify-center items-center flex sm:hidden absolute right-0 top-2">
+            {isNavOpen ? (
+              <FontAwesomeIcon
+                className=' cursor-pointer'
+                icon={faTimes} // Show the faTimes (cross) icon when the nav is open
+                onClick={toggleNav}
+              />
+            ) :
+              <FontAwesomeIcon
+                className=' cursor-pointer icon'
+                icon={faTimes} // Show the faBars icon when the nav is closed
+                onClick={toggleNav}
+              />
+            }
           </div>
+          {/* <Link to="/">
+            <li className='uppercase cursor-pointer'>Home</li>
+          </Link> */}
+        </ul>
 
-          <div className="nav-icon" onClick={handleClick}>
-            <FontAwesomeIcon className="fa-icon" icon={click ? faTimes : faBars} />
-          </div>
-        </div>
+        <ul className='flex w-full sm:px-2 sm:w-72 sm:justify-evenly flex-col sm:flex-row'>
+
+          <Link to="/auth/login">
+            <button type="button" className="py-2.5 px-5 mr-2 mb-2 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">Register</button>
+          </Link>
+          <Link to="/auth/register">
+            <button type="button" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Login</button>
+          </Link>
+
+        </ul>
+
       </nav>
-    </section>
+
+
+      <div className="w-32 justify-center items-center flex sm:hidden">
+        {isNavOpen ? (
+          <FontAwesomeIcon
+            className='cursor-pointer'
+            icon={faTimes} // Show the faTimes (cross) icon when the nav is open
+            onClick={toggleNav}
+          />
+        ) : (
+          <FontAwesomeIcon
+            className=' cursor-pointer icon'
+            icon={faBars} // Show the faBars icon when the nav is closed
+            onClick={toggleNav}
+          />
+        )}
+      </div>
+    </div>
   );
-}
+};
 
 export default NavBar;
