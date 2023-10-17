@@ -1,12 +1,14 @@
 /* eslint-disable react/prop-types */
 import { useState } from "react";
-import News from "./News";
+import Article from "./Article";
 
 
 
-const NewsSection = (props) => {
+const ArticleSection = (props) => {
     const { newsData } = props
+    const { handleFavouriteToggle, handleArticleReadToggle } = props;
 
+    //console.log('in section ', newsData)
 
     const [displayedArticles, setDisplayedArticles] = useState(3);
 
@@ -17,8 +19,11 @@ const NewsSection = (props) => {
     const handleShowLess = () => {
         setDisplayedArticles(3); // Show only 4 articles
     };
+
+
     return (
-        <section className=''>
+        <section className='my-5'>
+
             {newsData.articles.length > 3 ? (
                 <div className='my-5'>
                     {displayedArticles === 3 ? (
@@ -37,14 +42,21 @@ const NewsSection = (props) => {
                 </div>
             ) : null}
 
-            <div className='grid grid-cols-3 w-full   '>
+            <div className='grid grid-cols-1  lg:grid-cols-3 w-full   '>
                 {newsData.articles.slice(0, displayedArticles).map((article, index) => (
-                    <News key={index} article={article} />
+                    <Article key={index} article={article}
+                        handleFavouriteToggle={handleFavouriteToggle}
+                        handleArticleReadToggle={handleArticleReadToggle}
+
+                    />
                 ))}
             </div>
 
-        </section>
+
+
+
+        </section >
     );
 };
 
-export default NewsSection;
+export default ArticleSection;

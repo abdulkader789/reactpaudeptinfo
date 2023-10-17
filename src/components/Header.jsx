@@ -1,57 +1,82 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import '../../src/styles.css';
-import News from './News';
-import NewsSection from './NewsSection';
+import ArticleSection from './ArticleSection';
+import Loader from './Loader';
 
 const Header = () => {
-    const [newsData, setNewsData] = useState(null);
+
+    const [appleNews, setAppleNews] = useState(null);
 
     useEffect(() => {
-        fetch('https://newsapi.org/v2/everything?q=apple&from=2023-10-14&to=2023-10-14&sortBy=popularity&apiKey=3b89fec84d4a46bd8bc16e01ec765b7c')
+        fetch('/appleArticles.json')
             .then(res => res.json())
-            .then(data => setNewsData(data));
+            .then(data => setAppleNews(data));
     }, []);
-    // const [displayedArticles, setDisplayedArticles] = useState(3);
 
-    // const handleShowMore = () => {
-    //     setDisplayedArticles(newsData.articles.length); // Show all articles
-    // };
+    const [teslaNews, setTeslaNews] = useState(null);
 
-    // const handleShowLess = () => {
-    //     setDisplayedArticles(3); // Show only 4 articles
-    // };
+    useEffect(() => {
+        fetch('/teslaArticles.json')
+            .then(res => res.json())
+            .then(data => setTeslaNews(data));
+    }, []);
 
-    console.log('getting from fetch', newsData)
+    const [selectedArticle, setSelectedArticle] = useState([])
+
+    const handleFavouriteToggle = (articleId, isFavourite, article) => {
+        // Implement logic to record the favorite status in your state or send it to the server
+        // console.log(`Article ID ${articleId} is ${isFavourite ? 'marked as favorite' : 'unmarked as favorite'} ${article}`);
+        const newArticle = [...selectedArticle, article]
+        setSelectedArticle(newArticle)
+    };
+
+    const handleArticleReadToggle = (articleId, isRead, article) => {
+        // Implement logic to record the read status in your state or send it to the server
+        console.log(`Article ID ${articleId} is ${isRead ? 'marked as read' : 'marked as unread'} ${article}`);
+    };
+
+
+
+    //console.log('getting from fetch', appleNews)
 
     return (
-        <div className='w-full'>
-            <div>
-                <h1 className='font-extrabold text-3xl'>Apple news</h1>
+        <div className='w-full flex'>
+            <div className='w-full'>
+
+                {
+                    appleNews ?
+                        <div className='w-full'>
+                            <h1 className='font-extrabold text-3xl text-center'>Apple news</h1>
+                            <ArticleSection newsData={appleNews}
+                                handleFavouriteToggle={handleFavouriteToggle}
+                                handleArticleReadToggle={handleArticleReadToggle}
+
+
+                            ></ArticleSection>
+                        </div>
+                        : <div className='flex justify-center'><Loader></Loader></div>
+
+
+                }
+                {
+                    teslaNews ?
+                        <div>
+                            <h1 className='font-extrabold text-3xl text-center'>Tesla news</h1>
+                            <ArticleSection newsData={teslaNews}
+                                handleFavouriteToggle={handleFavouriteToggle}
+                                handleArticleReadToggle={handleArticleReadToggle}
+
+                            ></ArticleSection>
+                        </div>
+                        : <div className='flex justify-center'><Loader></Loader></div>
+                }
             </div>
-            <NewsSection newsData={newsData}></NewsSection>
 
-            {/* <section className=''>
-                <div className='grid grid-cols-3 w-full   '>
-                    {newsData.articles.slice(0, displayedArticles).map((article, index) => (
-                        <News key={index} article={article} />
-                    ))}
-                </div>
-                {newsData.articles.length > 3 ? (
-                    <div className='mt-4'>
-                        {displayedArticles === 3 ? (
-                            <div className='flex justify-center'>
-                                <button onClick={handleShowMore}>Show More</button>
-                            </div>
-                        ) : (
-                            <div className='flex justify-center'>
-                                <button onClick={handleShowLess}>Show Less</button>
-                            </div>
-                        )}
-                    </div>
-                ) : null}
-            </section> */}
+            <div className='w-[350px] border border-black h-[450px] sticky top-0'>
+                {selectedArticle.map(article => console.log(article.title))}
+            </div>
 
-        </div>
+        </div >
     );
 };
 
