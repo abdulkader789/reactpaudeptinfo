@@ -5,35 +5,40 @@ import Loader from './Loader';
 
 const Header = () => {
 
-    const [appleNews, setAppleNews] = useState(null);
+    const [appleArticles, setAppleArticles] = useState(null);
 
     useEffect(() => {
         fetch('/appleArticles.json')
             .then(res => res.json())
-            .then(data => setAppleNews(data));
+            .then(data => {
+                const modifiedAppleNews = data.articles.map(article => ({ ...article, isMarked: false, isFavorited: false }));
+                setAppleArticles({ ...data, articles: modifiedAppleNews });
+            });
     }, []);
 
-    const [teslaNews, setTeslaNews] = useState(null);
+    const [teslaArticles, setTeslaArticles] = useState(null);
 
     useEffect(() => {
         fetch('/teslaArticles.json')
             .then(res => res.json())
-            .then(data => setTeslaNews(data));
+            .then(data => {
+                const modifiedTeslaNews = data.articles.map(article => ({ ...article, isMarked: false, isFavorited: false }));
+                setTeslaArticles({ ...data, articles: modifiedTeslaNews });
+            });
     }, []);
 
-    const [selectedArticle, setSelectedArticle] = useState([])
+    const [favouriteArticles, setFavouriteArticles] = useState([])
+    const [markedArticles, setMarkedArticles] = useState([])
 
-    const handleFavouriteToggle = (articleId, isFavourite, article) => {
-        // Implement logic to record the favorite status in your state or send it to the server
-        // console.log(`Article ID ${articleId} is ${isFavourite ? 'marked as favorite' : 'unmarked as favorite'} ${article}`);
-        const newArticle = [...selectedArticle, article]
-        setSelectedArticle(newArticle)
-    };
+    const handleArticles = (articleData) => {
 
-    const handleArticleReadToggle = (articleId, isRead, article) => {
-        // Implement logic to record the read status in your state or send it to the server
-        console.log(`Article ID ${articleId} is ${isRead ? 'marked as read' : 'marked as unread'} ${article}`);
-    };
+        const newFavourite = [...favouriteArticles, articleData]
+        setFavouriteArticles(newFavourite);
+
+        const newMarked = [...markedArticles, articleData]
+        setMarkedArticles(newMarked);
+    }
+
 
 
 
@@ -44,13 +49,11 @@ const Header = () => {
             <div className='w-full'>
 
                 {
-                    appleNews ?
+                    appleArticles ?
                         <div className='w-full'>
                             <h1 className='font-extrabold text-3xl text-center'>Apple news</h1>
-                            <ArticleSection newsData={appleNews}
-                                handleFavouriteToggle={handleFavouriteToggle}
-                                handleArticleReadToggle={handleArticleReadToggle}
-
+                            <ArticleSection articleData={appleArticles}
+                                handleArticles={handleArticles}
 
                             ></ArticleSection>
                         </div>
@@ -59,12 +62,11 @@ const Header = () => {
 
                 }
                 {
-                    teslaNews ?
+                    teslaArticles ?
                         <div>
                             <h1 className='font-extrabold text-3xl text-center'>Tesla news</h1>
-                            <ArticleSection newsData={teslaNews}
-                                handleFavouriteToggle={handleFavouriteToggle}
-                                handleArticleReadToggle={handleArticleReadToggle}
+                            <ArticleSection articleData={teslaArticles}
+                                handleArticles={handleArticles}
 
                             ></ArticleSection>
                         </div>
@@ -73,8 +75,16 @@ const Header = () => {
             </div>
 
             <div className='w-[350px] border border-black h-[450px] sticky top-0'>
-                {selectedArticle.map(article => console.log(article.title))}
+                <div>
+                    <h2 className='text-xl font-bold'>Favourtie Articles</h2>
+                    {favouriteArticles.map((article, index) => <p key={index}>{index + 1}. {article.title}</p>)}
+                </div>
+                <div>
+                    <h2 className='text-xl font-bold'>Marked Articles</h2>
+                    {markedArticles.map((article, index) => <p key={index}>{index + 1}. {article.title}</p>)}
+                </div>
             </div>
+
 
         </div >
     );

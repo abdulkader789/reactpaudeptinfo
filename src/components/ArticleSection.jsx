@@ -5,15 +5,15 @@ import Article from "./Article";
 
 
 const ArticleSection = (props) => {
-    const { newsData } = props
-    const { handleFavouriteToggle, handleArticleReadToggle } = props;
+    const { articleData } = props
+    const { handleArticles } = props;
 
-    //console.log('in section ', newsData)
+    // console.log('in section ', articleData)
 
     const [displayedArticles, setDisplayedArticles] = useState(3);
 
     const handleShowMore = () => {
-        setDisplayedArticles(newsData.articles.length); // Show all articles
+        setDisplayedArticles(articleData.articles.length); // Show all articles
     };
 
     const handleShowLess = () => {
@@ -24,7 +24,7 @@ const ArticleSection = (props) => {
     return (
         <section className='my-5'>
 
-            {newsData.articles.length > 3 ? (
+            {articleData.articles.length > 3 ? (
                 <div className='my-5'>
                     {displayedArticles === 3 ? (
                         <div className='flex justify-center'>
@@ -43,10 +43,9 @@ const ArticleSection = (props) => {
             ) : null}
 
             <div className='grid grid-cols-1  lg:grid-cols-3 w-full   '>
-                {newsData.articles.slice(0, displayedArticles).map((article, index) => (
+                {articleData.articles.slice(0, displayedArticles).map((article, index) => (
                     <Article key={index} article={article}
-                        handleFavouriteToggle={handleFavouriteToggle}
-                        handleArticleReadToggle={handleArticleReadToggle}
+                        handleArticles={handleArticles}
 
                     />
                 ))}
