@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 const Article = (props) => {
 
-    const { article, handleArticles } = props;
+    const { article, handleFavouriteArticles, handleMarkedArticles } = props;
 
     const [favourite, setFavourite] = useState(false);
     const [marked, setMarked] = useState(false);
@@ -15,19 +15,18 @@ const Article = (props) => {
 
     const handleFavourite = () => {
         setFavourite(!favourite);
-        handleArticles(article)
+        handleFavouriteArticles(article)
 
     };
 
     const handleMarked = () => {
         setMarked(!marked)
-        handleArticles(article)
+        handleMarkedArticles(article)
     };
 
-
-
-
     return (
+
+
 
         <div className='w-[300px] relative mb-5 px-3  place-self-center rounded-sm '>
             <div className="h-20">
@@ -56,11 +55,11 @@ const Article = (props) => {
                         onChange={handleMarked}
                     />
 
-
                 </div>
 
             </div>
         </div>
+
 
     );
 };

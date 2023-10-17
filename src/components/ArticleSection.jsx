@@ -6,7 +6,7 @@ import Article from "./Article";
 
 const ArticleSection = (props) => {
     const { articleData } = props
-    const { handleArticles } = props;
+    const { handleFavouriteArticles, handleMarkedArticles } = props;
 
     // console.log('in section ', articleData)
 
@@ -45,7 +45,8 @@ const ArticleSection = (props) => {
             <div className='grid grid-cols-1  lg:grid-cols-3 w-full   '>
                 {articleData.articles.slice(0, displayedArticles).map((article, index) => (
                     <Article key={index} article={article}
-                        handleArticles={handleArticles}
+                        handleFavouriteArticles={handleFavouriteArticles}
+                        handleMarkedArticles={handleMarkedArticles}
 
                     />
                 ))}
