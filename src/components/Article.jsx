@@ -32,8 +32,8 @@ const Article = (props) => {
             <div className="h-20">
                 <strong>{article.title}</strong>:
             </div>
-            <img className='h-48 w-full' src={article.urlToImage}></img>
-            <div className="flex">
+            <img className='h-48 w-full rounded-md' src={article.urlToImage}></img>
+            <div className="flex mt-3">
                 <p>{date}</p>
                 <button className='text-blue-800 underline ml-5'><a href={article.url} target="_blank" rel="noreferrer" >Read More</a></button>
 

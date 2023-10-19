@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-
+import authImg from "../assets/undraw_resume_re_hkth.svg"
 export const Register = () => {
 
     // const navigate = useNavigate();
@@ -39,11 +39,11 @@ const Form = ({ label, username, setUsername, password, setPassword, redirectTo,
 
 
     return (
-        <div className="auth-container md:px-20 pt-5">
-            <div className="p-10 bg-white shadow-md border-1">
+        <div className="auth-container md:px-20 pt-5 ">
+            <div className="p-10  shadow-md border-1 bg-violet-100">
                 <h1 className="mb-8 font-extrabold text-4xl capitalize">{label}</h1>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                    <form onSubmit={handleSubmit}>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-8 ">
+                    <form onSubmit={handleSubmit} >
                         <div>
                             <label className="block font-semibold" htmlFor="name">
                                 Name
@@ -90,13 +90,14 @@ const Form = ({ label, username, setUsername, password, setPassword, redirectTo,
                     </form>
 
                     <aside>
-                        <div className="bg-gray-100 p-8 rounded">
-                            <h2 className="font-bold text-2xl">Instructions</h2>
+                        <div className=" p-8 rounded">
+                            {/* <h2 className="font-bold text-2xl">Instructions</h2>
                             <ul className="list-disc mt-4 list-inside">
                                 <li>All users must provide a valid email address and password to create an account.</li>
                                 <li>Users must not use offensive, vulgar, or otherwise inappropriate language in their username or profile information</li>
                                 <li>Users must not create multiple accounts for the same person.</li>
-                            </ul>
+                            </ul> */}
+                            <img className="" src={authImg} alt />
                         </div>
                     </aside>
                 </div>

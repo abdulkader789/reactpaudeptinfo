@@ -24,6 +24,18 @@ const ArticleSection = (props) => {
     return (
         <section className='my-5'>
 
+            <div className='grid grid-cols-1  lg:grid-cols-3 w-full   '>
+                {articleData.articles.slice(0, displayedArticles).map((article, index) => (
+                    <Article key={index} article={article}
+                        handleFavouriteArticles={handleFavouriteArticles}
+                        handleMarkedArticles={handleMarkedArticles}
+
+                    />
+                ))}
+            </div>
+
+
+
             {articleData.articles.length > 3 ? (
                 <div className='my-5'>
                     {displayedArticles === 3 ? (
@@ -42,15 +54,7 @@ const ArticleSection = (props) => {
                 </div>
             ) : null}
 
-            <div className='grid grid-cols-1  lg:grid-cols-3 w-full   '>
-                {articleData.articles.slice(0, displayedArticles).map((article, index) => (
-                    <Article key={index} article={article}
-                        handleFavouriteArticles={handleFavouriteArticles}
-                        handleMarkedArticles={handleMarkedArticles}
 
-                    />
-                ))}
-            </div>
 
 
 
