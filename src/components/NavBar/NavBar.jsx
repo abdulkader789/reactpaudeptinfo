@@ -4,8 +4,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
 
   faBars,
-
+  faArrowRight,
   faTimes,
+  faArrowLeft,
 
 } from '@fortawesome/free-solid-svg-icons';
 import './NavBar.css'
@@ -17,34 +18,34 @@ const NavBar = () => {
   };
 
   return (
-    <div className=' flex py-3  relative justify-between bg-[#fafafa] nav-bg text-black'>
-      <div className="relative flex justify-center items-center w-60">
-        <h2 className='uppercase font-bold text-xl'>
-          <Link to="/">explorer.com</Link>
+    <div className=' flex py-3  relative justify-between  nav-bg text-black'>
+      <div className="relative flex justify-center items-center w-96">
+        <h2 className=' font-bold text-xl'>
+          <Link to="/"><span className='text-slate-950'>Brain</span><span className='text-violet-600'>Stream</span></Link>
         </h2>
       </div>
 
-      <nav className={`flex p-5 bg-[#201d1d] text-white sm:text-inherit sm:bg-inherit sm:p-0 h-screen sm:h-auto nav-bg absolute w-[300px] sm:w-full sm:relative z-10  top-0 sm:top-auto flex-col sm:flex-row ${isNavOpen ? 'slide-in' : 'slide-out'
+      <nav className={`flex p-5 bg-[#f0f0f0] text-white sm:text-inherit sm:bg-inherit sm:p-0 h-screen sm:h-auto nav-bg absolute w-[300px] sm:w-full sm:relative z-10  top-0 sm:top-auto flex-col sm:flex-row ${isNavOpen ? 'slide-in' : 'slide-out'
         }`}>
-        <ul className='flex  flex-col sm:flex-row justify-evenly w-full relative '>
+        <ul className='flex capitalize   flex-col sm:flex-row sm:items-center text-black justify-evenly w-full relative '>
           <div className="w-32 justify-center items-center flex sm:hidden absolute right-0 top-2">
-            {isNavOpen ? (
-              <FontAwesomeIcon
-                className=' cursor-pointer'
-                icon={faTimes} // Show the faTimes (cross) icon when the nav is open
-                onClick={toggleNav}
-              />
-            ) :
-              <FontAwesomeIcon
-                className=' cursor-pointer icon'
-                icon={faTimes} // Show the faBars icon when the nav is closed
-                onClick={toggleNav}
-              />
-            }
+
+            <FontAwesomeIcon
+              className=' cursor-pointer icon'
+              icon={faArrowLeft} // Show the faBars icon when the nav is closed
+              onClick={toggleNav}
+            />
+
           </div>
-          {/* <Link to="/">
-            <li className='uppercase cursor-pointer'>Home</li>
-          </Link> */}
+          <Link to="/">
+            <li className=' cursor-pointer'>Home</li>
+          </Link>
+          <Link to="/article">
+            <li className=' cursor-pointer'>Articles</li>
+          </Link>
+          <Link to="/contact">
+            <li className='cursor-pointer'>contact</li>
+          </Link>
         </ul>
 
         <ul className='flex w-full sm:px-2 sm:w-72 sm:justify-evenly flex-col sm:flex-row'>

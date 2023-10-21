@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import ArticleSection from "./ArticleSection";
-import Loader from "./Loader";
+import Loader from "../Loader";
 
 const ShowData = (props) => {
     const { data, title, handleFavouriteArticles, handleMarkedArticles } = props;

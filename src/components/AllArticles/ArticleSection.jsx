@@ -10,21 +10,21 @@ const ArticleSection = (props) => {
 
     // console.log('in section ', articleData)
 
-    const [displayedArticles, setDisplayedArticles] = useState(3);
+    const [displayedArticles, setDisplayedArticles] = useState(4);
 
     const handleShowMore = () => {
         setDisplayedArticles(articleData.articles.length); // Show all articles
     };
 
     const handleShowLess = () => {
-        setDisplayedArticles(3); // Show only 4 articles
+        setDisplayedArticles(4); // Show only 4 articles
     };
 
 
     return (
         <section className='my-5'>
 
-            <div className='grid grid-cols-1  lg:grid-cols-3 w-full   '>
+            <div className='grid grid-cols-1  lg:grid-cols-2 w-full   '>
                 {articleData.articles.slice(0, displayedArticles).map((article, index) => (
                     <Article key={index} article={article}
                         handleFavouriteArticles={handleFavouriteArticles}
@@ -36,9 +36,9 @@ const ArticleSection = (props) => {
 
 
 
-            {articleData.articles.length > 3 ? (
+            {articleData.articles.length > 4 ? (
                 <div className='my-5'>
-                    {displayedArticles === 3 ? (
+                    {displayedArticles === 4 ? (
                         <div className='flex justify-center'>
                             <button onClick={handleShowMore}
                                 className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-10 rounded"
