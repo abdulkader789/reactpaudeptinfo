@@ -2,6 +2,21 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+<<<<<<< HEAD
 body{
     background-color: #eef2e2;
 }
+=======
+
+body{
+    background: rgb(235,203,247);
+    background: linear-gradient(135deg, rgba(235,203,247,1) 0%, rgba(252,252,249,1) 27%);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  
+
+
+
+
+>>>>>>> 0eaf59cbf3d2f7ccbd18cb7b6f033f6aa0cf768a

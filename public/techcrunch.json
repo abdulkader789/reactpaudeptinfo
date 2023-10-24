@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 551,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Catherine Shu",
+            "title": "After warning, the EU opens investigation into X over alleged disinformation",
+            "description": "The European Union announced today it is opening an investigation into X for allegedly spreading illegal content and disinformation, including terrorist The European Union announced today it is opening an investigation into X for allegedly spreading illegal c…",
+            "url": "https://techcrunch.com/2023/10/12/eu-x-investigation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
+            "publishedAt": "2023-10-13T00:38:56Z",
+            "content": "The European Union announced today it is opening an investigation into X for allegedly spreading illegal content and disinformation, including terrorist and violent content and hate speech. This come… [+3552 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Bluesky gets its first third-party mobile app with Graysky, launching later this month",
+            "description": "Bluesky, the Jack Dorsey-backed Twitter alternative, is getting its first third-party app for mobile users: a new app called Graysky. Though numerous Bluesky projects built on the company’s API are already in the works or in testing, Graysky will be the first…",
+            "url": "https://techcrunch.com/2023/10/12/bluesky-gets-its-first-third-party-mobile-app-with-graysky-launching-later-this-month/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/graysky-header.jpeg?w=1200",
+            "publishedAt": "2023-10-12T16:48:38Z",
+            "content": "Bluesky, the Jack Dorsey-backed Twitter alternative, is getting its first third-party app for mobile users: a new app called Graysky. Though numerous Bluesky projects built on the company’s API are a… [+5644 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "New technique makes AI hallucinations wake up and face reality",
+            "description": "Chatbots have an alarming propensity to generate false information, but present it as accurate. This phenomenon, known as AI hallucinations, has various adverse effects. At best, it restricts the benefits of artificial intelligence. At worst, it can cause rea…",
+            "url": "https://thenextweb.com/news/ai-hallucinations-solution-iris-ai",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-3-1.jpg&signature=fb7eca7b8ef925a65ea4a0bf792ec762",
+            "publishedAt": "2023-10-12T13:51:50Z",
+            "content": "Chatbots have an alarming propensity to generate false information, but present it as accurate. This phenomenon, known as AI hallucinations, has various adverse effects. At best, it restricts the ben… [+7021 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "Europe outpaces US and China in hydrogen investment, says EU president",
+            "description": "From transportation to heavy industries, clean hydrogen has emerged as a key element in the transition to climate neutrality — and the EU wants to ensure that the fossil-fuel alternative joins its arsenal. In a speech to representatives of hydrogen’s entire v…",
+            "url": "https://thenextweb.com/news/europe-outpaces-us-china-in-hydrogen-investment",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FHydrogen-molecule-hystar.jpeg&signature=c6a256bcd016113125184139da149254",
+            "publishedAt": "2023-10-12T11:16:47Z",
+            "content": "From transportation to heavy industries, clean hydrogen has emerged as a key element in the transition to climate neutrality and the EU wants to ensure that the fossil-fuel alternative joins its arse… [+2546 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "German anti-racism agency quits X amid Israel-Palestine disinformation wave",
+            "description": "Germany’s federal anti-discrimination agency (FADA) said Wednesday it was quitting X, formerly known as Twitter, due to an “enormous rise” in hate speech.  “Due to the enormous rise in anti-trans and queer rhetoric, racism, misogyny, and antisemitism, we no l…",
+            "url": "https://thenextweb.com/news/german-anti-racism-agency-quits-x-israel-palestine-disinformation",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fdisinformation-X-twitter-hate-speech-israel-palestine.jpg&signature=5181e734e38ea974af4015f78db57e77",
+            "publishedAt": "2023-10-12T10:23:46Z",
+            "content": "Germanys federal anti-discrimination agency (FADA) said Wednesday it was quitting X, formerly known as Twitter, due to an enormous rise in hate speech. \r\nDue to the enormous rise in anti-trans and qu… [+2163 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "Taiwan’s semiconductor suppliers plan to invest in European chip factories",
+            "description": "Amid the global race for semiconductor chips, Taiwanese suppliers are considering investing in Europe, the Financial Times reports. “We are planning investments in Germany, and the European market is going to be ours,” Vincent Liu, president and chief executi…",
+            "url": "https://thenextweb.com/news/taiwans-semiconductor-suppliers-invest-european-chip-factories",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fprocessor-2217771_1280.jpg&signature=5825884474bf7cec740e07c99b3f7884",
+            "publishedAt": "2023-10-11T14:48:56Z",
+            "content": "Amid the global race for semiconductor chips, Taiwanese suppliers are considering investing in Europe, the Financial Times reports.\r\nWe are planning investments in Germany, and the European market is… [+1856 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "Google’s AI could soon consume as much electricity as Ireland, study finds",
+            "description": "Amid the debate over the dangers of widespread AI development, an important concern may have been overlooked: the huge amount of energy required to train these large language models. A new study published this week suggests that the AI industry could consume …",
+            "url": "https://thenextweb.com/news/googles-ai-could-consume-as-much-electricity-as-ireland",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FAI-energy-use-1.jpg&signature=eaed9cab0dbad5d5b75d490a40a3e8a7",
+            "publishedAt": "2023-10-11T14:38:23Z",
+            "content": "Amid the debate over the dangers of widespread AI development, an important concern may have been overlooked: the huge amount of energy required to train these large language models.\r\nA new study pub… [+1597 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "Croatia wants to turn superhot underground lake into 16MW power plant",
+            "description": "A Croatian energy company has discovered an underwater lake of superheated water that could supply the country’s far north with clean geothermal electricity. The find was the result of a two-year study by state-run power company Bukotermal that sought to find…",
+            "url": "https://thenextweb.com/news/croatia-geothermal-energy-plant",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fgeothermal-energy-croatia.jpg&signature=b03f98716968713038ba9bb1f1943361",
+            "publishedAt": "2023-10-11T12:58:46Z",
+            "content": "A Croatian energy company has discovered an underwater lake of superheated water that could supply the countrys far north with clean geothermal electricity.\r\nThe find was the result of a two-year stu… [+4271 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "Cambridge aims to double its unicorns, plans support scheme for founders",
+            "description": "Home to over 5,300 high tech companies, Cambridge is among the world’s leading university-based ecosystems. Ranked as the third most important science hub globally in 2022, the city counts 23 unicorns and its university-backed startups have raised over £3bn i…",
+            "url": "https://thenextweb.com/news/cambridge-double-unicorns-support-scheme-for-founders",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-17-5.jpg&signature=d42512ace12bdf432014c4c8a90d4f9d",
+            "publishedAt": "2023-10-11T12:58:36Z",
+            "content": "Home to over 5,300 high tech companies, Cambridge is among the worlds leading university-based ecosystems. Ranked as the third most important science hub globally in 2022, the city counts 23 unicorns… [+2380 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Conveyor raises $12.5M to automate security reviews using LLMs",
+            "description": "The trouble is, security reviews require a massive investment of time -- and labor.  Questionnaires -- the main way companies vet vendor -- contain hundreds ...",
+            "url": "https://techcrunch.com/2023/10/11/conveyor-raises-12-5m-to-automate-security-reviews-using-llms/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/h.PFmPJx9o7cUNooregDbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/9ec52c964408dd06abbaad9250ed9cdd",
+            "publishedAt": "2023-10-11T12:30:55Z",
+            "content": "In a perfect world, companies would vet the security and compliance of every third-party vendor they use. Sales wouldn't close until these reviews are complete. The trouble is, security reviews requi… [+5875 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dominic-Madori Davis",
+            "title": "California mandates VC firms to release investments' diversity information",
+            "description": "This is the United States’ first piece of legislation that aims to increase diversity within the venture capital landscape.",
+            "url": "https://techcrunch.com/2023/10/09/california-passes-law-mandating-vc-firms-to-release-investments-diversity-information/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-186653928.jpg?resize=1200,800",
+            "publishedAt": "2023-10-10T20:50:25Z",
+            "content": "Last night, California Governor Gavin Newsom signed into law Senate Bill 54, which will require venture capital firms in the state to annually report the diversity of the founders they are backing. T… [+4253 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "5 space-age technologies that the EU just launched into orbit",
+            "description": "A new EU mission has sent some suitably space-age tech into the cosmos. On a Vega rocket that launched from the European spaceport in French Guyana on Monday, the union sent six satellites and nine experiments into orbit for testing. The programme aims to boo…",
+            "url": "https://thenextweb.com/news/eu-space-mission-tech-orbit-testing",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-6.jpg&signature=8ea7eee166413d34c18fbdb82ccb5023",
+            "publishedAt": "2023-10-10T15:09:54Z",
+            "content": "A new EU mission has sent some suitably space-age tech into the cosmos. On a Vega rocket that launched from the European spaceport in French Guyana on Monday, the union sent six satellites and nine e… [+3432 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "Even world’s biggest offshore wind farm can’t mask UK’s green energy failures",
+            "description": "The world’s largest offshore wind farm has started exporting power to the UK grid after its first turbine came online this weekend.   The Dogger Bank Wind Farm, currently under construction in the North Sea, will comprise a total of 277 turbines once complete…",
+            "url": "https://thenextweb.com/news/worlds-biggest-offshore-wind-farm-sunak-green-energy",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fdogger-bank-wind-farm-uk-sunak.jpg&signature=fa25e72050d796b5ec3e91248b71ba1b",
+            "publishedAt": "2023-10-10T14:46:07Z",
+            "content": "The worlds largest offshore wind farm has started exporting power to the UK grid after its first turbine came online this weekend.  \r\nThe Dogger Bank Wind Farm, currently under construction in the No… [+5374 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "ScyllaDB raises $43M to scale its NoSQL database platform",
+            "description": "Today, ScyllaDB, a startup developing database tech for high-throughput, low-latency workloads, announced that it raised $43 million in a funding round led...",
+            "url": "https://techcrunch.com/2023/10/10/scylladb-raises-43m-to-scale-its-nosql-database-platform/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LjAugG.ANZym3dFJvRT_Fw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDk-/https://media.zenfs.com/en/techcrunch_350/141042f518970e0a0935eb75512e50ed",
+            "publishedAt": "2023-10-10T10:00:57Z",
+            "content": "Investors have an appetite for databases, it seems.\r\nToday, ScyllaDB, a startup developing database tech for high-throughput, low-latency workloads, announced that it raised $43 million in a funding … [+3183 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Kirstie McDermott",
+            "title": "What’s behind TikTok’s #lazygirljobs trend — and do you actually want one?",
+            "description": "Earlier this year, TikToker Gabrielle Judge, aka the “anti-work girlboss,” posted a now-viral two and a half minute video. The subject was the “Lazy Girl Job,” which captured the imagination of viewers to such an extent that Judge’s video now has more than 34…",
+            "url": "https://thenextweb.com/news/tiktoks-lazygirljobs-trend",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FAdd-a-heading.jpg&signature=7e01800f3d4149a5cadac390fbe63988",
+            "publishedAt": "2023-10-10T08:51:26Z",
+            "content": "Earlier this year, TikToker Gabrielle Judge, aka the anti-work girlboss, posted a now-viral two and a half minute video.\r\nThe subject was the Lazy Girl Job, which captured the imagination of viewers … [+4202 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "Gaia spacecraft finds new jigsaw pieces for puzzle of the Universe",
+            "description": "The Gaia spacecraft has unearthed a new treasure trove of secrets about our galaxy — and beyond. The European Space Agency (ESA) mission plans to produce the largest, most precise 3D map of the Milky Way. To achieve this lofty goal, Gaia is surveying almost 2…",
+            "url": "https://thenextweb.com/news/esa-gaia-new-space-universe-data",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-4.jpg&signature=ee63a9cb095ffe7184057a9d1ffcfb8f",
+            "publishedAt": "2023-10-10T08:00:27Z",
+            "content": "The Gaia spacecraft has unearthed a new treasure trove of secrets about our galaxy and beyond.\r\nThe European Space Agency (ESA) mission plans to produce the largest, most precise 3D map of the Milky … [+4496 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Romain Dillet",
+            "title": "Orus offers business insurance products to restaurant owners and other small companies",
+            "description": "French startup Orus has raised an $11.6 million Series A funding round (€11 million). The startup offers insurance products specifically designed for small and medium companies. Interestingly, today’s news comes just a few months after Amsterdam-based insurte…",
+            "url": "https://techcrunch.com/2023/10/10/orus-offers-business-insurance-products-to-restaurant-owners-and-other-small-companies/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1414263389.jpg?resize=1200,800",
+            "publishedAt": "2023-10-10T07:00:00Z",
+            "content": "French startup Orus has raised an $11.6 million Series A funding round (11 million). The startup offers insurance products specifically designed for small and medium companies. Interestingly, todays … [+1985 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "French startup bags €40M for unique CO2 battery recycling tech",
+            "description": "Lyon-based Mecaware has raised €40mn in funding to industrialise its battery recycling technology, designed to produce strategic raw materials. Founded in 2020, the startup has positioned itself in the recycling of end-of-life batteries and production scrap o…",
+            "url": "https://thenextweb.com/news/french-startup-40mn-co2-battery-recycling-tech",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-17-4.jpg&signature=312a68ee7ef14a828f62c86634f19a9b",
+            "publishedAt": "2023-10-09T14:05:22Z",
+            "content": "Lyon-based Mecaware has raised 40mn in funding to industrialise its battery recycling technology, designed to produce strategic raw materials.\r\nFounded in 2020, the startup has positioned itself in t… [+2388 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "UK’s first exascale supercomputer project goes to Edinburgh",
+            "description": "The UK today said it had selected Edinburgh to host its first exascale next-gen supercomputer, which will be 50 times faster than its current highest capacity system. The University of Edinburgh will house the country’s new exascale computing facility, which …",
+            "url": "https://thenextweb.com/news/uk-first-exascale-computer-edinburgh",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fexascaleediburgh-e1696850221654.jpg&signature=b5eb7459532e1f52abc2540f1a9b325d",
+            "publishedAt": "2023-10-09T11:24:48Z",
+            "content": "The UK today said it had selected Edinburgh to host its first exascale next-gen supercomputer, which will be 50 times faster than its current highest capacity system.The University of Edinburgh will … [+2664 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "PLD Space launches Europe’s first private rocket — and it’s reusable",
+            "description": "Spanish startup PLD Space successfully blasted the first-ever private European rocket into orbit on Saturday, in a potential turning point for the continent’s struggling space industry.    The first launch of the Miura 1 took place at 02:19 CEST (00:19 UTC) o…",
+            "url": "https://thenextweb.com/news/pld-space-europe-reusable-rocket-launch-spain",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fmuira-space-PLD-spain-rocket-europe-startup.jpg&signature=53568471e304b7da539731be012a9430",
+            "publishedAt": "2023-10-09T10:58:05Z",
+            "content": "Spanish startup PLD Space successfully blasted the first-ever private European rocket into orbit on Saturday, in a potential turning point for the continents struggling space industry.   \r\nThe first … [+2853 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anna Heim",
+            "title": "European Digital insurtech startup Getsafe acquires Luko's German portfolio, reaches 550,000 customers",
+            "description": "Getsafe, a German-based digital insurtech startup, has acquired the German portfolio of Luko, a French insurtech startup that recently neared insolvency...",
+            "url": "https://techcrunch.com/2023/10/08/getsafe-luko-germany/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zSjXbfjXT2mB9NhwYYsI.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/a19afcfa9f7860d24d60de4f66cf953b",
+            "publishedAt": "2023-10-09T04:00:25Z",
+            "content": "Getsafe, a German-based digital insurtech startup, has acquired the German portfolio of Luko, a French insurtech startup that recently neared insolvency before agreeing to be acquired by British insu… [+4890 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "First demo vehicle from ‘factory in a box’ heralds new production model for EVs",
+            "description": "Helixx has unveiled the first demonstrator vehicle from the startup’s “factory in a box” system. The commercial delivery van was built to validate a new form of carmaking. Using software-led production and site designs that are customised to local needs, the …",
+            "url": "https://thenextweb.com/news/helixx-unveils-ev-demonstrator-factory-in-a-box",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-5.jpg&signature=cdc13cc1d80a44c8218ea7e72c9a205a",
+            "publishedAt": "2023-10-08T23:01:54Z",
+            "content": "Helixx has unveiled the first demonstrator vehicle from the startups factory in a box system.\r\nThe commercial delivery van was built to validate a new form of carmaking. Using software-led production… [+4730 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Here’s how Rainforest, a budding Stripe rival, aims to win over software companies",
+            "description": "Rainforest raises $8.5M and PayPal gets hit with a lawsuit. We take a look at this and other hot fintech news from the previous week.",
+            "url": "https://techcrunch.com/2023/10/08/heres-how-rainforest-an-atlanta-fintech-startup-and-stripe-rival-aims-to-win-over-software-companies/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-542715642.jpg?resize=1200,1200",
+            "publishedAt": "2023-10-08T14:16:01Z",
+            "content": "Welcome back to The Interchange, where we take a look at the hottest fintech news of the previous week. If you want to receive The Interchange directly in your inbox every Sunday, head here to sign u… [+11715 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "theoldlove",
+            "title": "Brave lays off 9% of its workforce",
+            "description": "Article URL: https://techcrunch.com/2023/10/06/brave-lays-off-9-of-its-workforce/\nComments URL: https://news.ycombinator.com/item?id=37801043\nPoints: 5\n# Comments: 0",
+            "url": "https://techcrunch.com/2023/10/06/brave-lays-off-9-of-its-workforce/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/1200x627-linkedin-template.jpeg?w=1200",
+            "publishedAt": "2023-10-07T12:11:21Z",
+            "content": "Brave Software, the maker of Brave Browser and Search, confirmed that it has laid off 9% of its staff across departments.\r\nThe company didn’t specify how many people were affected, but it corroborate… [+1126 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mary Ann Azevedo",
+            "title": "a16z-backed fintech Synapse lays off 40% of its staff",
+            "description": "Banking-as-a-service startup Synapse confirmed today that it has laid off 86 people, or about 40% of the company. The San Francisco-based company, which operates a platform enabling banks and fintech companies to easily develop financial services, has been op…",
+            "url": "https://techcrunch.com/2023/10/06/a16z-backed-fintech-synapse-lays-off-40-of-its-staff/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1162955004.jpg?resize=1200,800",
+            "publishedAt": "2023-10-06T22:10:15Z",
+            "content": "Banking-as-a-service startup Synapse confirmed today that it has laid off 86 people, or about 40% of the company.\r\nThe San Francisco-based company, which operates a platform enabling banks and fintec… [+1486 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "X to test three tiers of its Premium service, CEO says; code shows one tier may be ad-free",
+            "description": "X, the company formerly known as Twitter, is planning to test three tiers of its X Premium service in order to bring in additional revenue, according to Bloomberg, reporting on X CEO Linda Yaccarino’s briefing to X debt holders on Thursday. The exec told the …",
+            "url": "https://techcrunch.com/2023/10/06/x-to-test-three-tiers-of-its-premium-service-ceo-says-code-shows-one-tier-may-be-ad-free/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675",
+            "publishedAt": "2023-10-06T14:03:32Z",
+            "content": "X, the company formerly known as Twitter, is planning to test three tiers of its X Premium service in order to bring in additional revenue, according to Bloomberg, reporting on X CEO Linda Yaccarino’… [+3608 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "EU’s AI Act will hurt smaller companies, US warns",
+            "description": "The EU’s landmark AI Act would hurt smaller European companies and only benefit big players who can cover the high costs of compliance, the US warns. According to documents seen by Bloomberg, the State Department’s analysis of the upcoming legislation is soun…",
+            "url": "https://thenextweb.com/news/eu-ai-act-hurt-smaller-companies-us-warns",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-17-3.jpg&signature=5d28e4f187cdc2f2842fa3246b1ad8e4",
+            "publishedAt": "2023-10-06T13:36:47Z",
+            "content": "The EUs landmark AI Act would hurt smaller European companies and only benefit big players who can cover the high costs of compliance, the US warns.\r\nAccording to documents seen by Bloomberg, the Sta… [+1628 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "Drone startup launches grocery delivery in Germany",
+            "description": "This Thursday, German startup Wingcopter launched a drone and electric cargo-bike delivery project to bring everyday consumer goods to remote rural areas in Central Germany.  Just as with ordinary grocery delivery, customers in Michelstadt, Hesse, will be abl…",
+            "url": "https://thenextweb.com/news/drone-startup-wingcopter-grocery-delivery-germany",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fwingcopter-1-e1696595066410.jpg&signature=c513a68bdf5650441e088e8a0e979db1",
+            "publishedAt": "2023-10-06T12:31:57Z",
+            "content": "This Thursday, German startup Wingcopter launched a drone and electric cargo-bike delivery project to bring everyday consumer goods to remote rural areas in Central Germany. \r\nJust as with ordinary g… [+3031 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Carly Page",
+            "title": "MGM Resorts confirms hackers stole customers' personal data during cyberattack",
+            "description": "MGM Resorts has confirmed hackers stole an unspecified amount of customers' personal information during a September cyberattack that will cost the hotel and ...",
+            "url": "https://techcrunch.com/2023/10/06/mgm-resorts-admits-hackers-stole-customers-personal-data-cyberattack/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/m9cixwaroqFfDQUKyd9ohw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTA-/https://media.zenfs.com/en/techcrunch_350/441397fda8a92b77dea542eff807257b",
+            "publishedAt": "2023-10-06T12:05:23Z",
+            "content": "MGM Resorts has confirmed hackers stole an unspecified amount of customers' personal information during a September cyberattack that will cost the hotel and casino giant an estimated $100 million.\r\nT… [+3217 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "UNESCO, Dutch join forces on ethical AI supervision project",
+            "description": "The recent AI boom has forced governments across the globe to consider frameworks with which to address the technology’s unprecedented challenges and opportunities. Against this background, UNESCO has teamed up with the Dutch Authority for Digital Infrastruct…",
+            "url": "https://thenextweb.com/news/unesco-dutch-ethical-ai-supervision-project",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-17-2.jpg&signature=86af06e93f90321a3bfabd66dc3c93af",
+            "publishedAt": "2023-10-06T09:58:40Z",
+            "content": "The recent AI boom has forced governments across the globe to consider frameworks with which to address the technologys unprecedented challenges and opportunities. Against this background, UNESCO has… [+2053 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "All eyes on VW after Hyundai, Kia adopt Tesla charging standard",
+            "description": "Hyundai and Kia have finally announced their plans to adopt Tesla's North American Charging Standard (NACS) ports for their electric vehicles in the U.S. and...",
+            "url": "https://techcrunch.com/2023/10/05/all-eyes-on-vw-after-hyundai-kia-adopt-tesla-charging-standard/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jW3acl5tavZr6TXxKAC6LQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzY-/https://media.zenfs.com/en/techcrunch_350/d16097feef458b6b54972ea38c8b5d71",
+            "publishedAt": "2023-10-05T23:17:53Z",
+            "content": "Hyundai and Kia have finally announced their plans to adopt Tesla's North American Charging Standard (NACS) ports for their electric vehicles in the U.S. and Canada, joining the swells of automakers … [+2907 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jacquelyn Melinek",
+            "title": "Alameda had a $65B line of credit and 'unlimited withdrawals'",
+            "description": "Prior to Wang taking the stand, there was a 15-minute break during which Bankman-Fried looked visibly irritated.  At one point his father, Joseph Bankman...",
+            "url": "https://techcrunch.com/2023/10/05/sbf-trial-gary-wang/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_4ONmYLvcRd7sYTPZtG9Mw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDU-/https://media.zenfs.com/en/techcrunch_350/470f8af6dd4d9967a80a3da472aebe52",
+            "publishedAt": "2023-10-05T21:35:03Z",
+            "content": "The Sam Bankman-Fried trial gained steam after a somewhat sleepier first half of the day. That's when prosecutors and the defense asked a witness and former FTX developer about the technical details … [+3574 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Uber still dragging its feet on algorithmic transparency, Dutch court finds",
+            "description": "Uber has been found to have failed to comply with European Union algorithmic transparency requirements in a legal challenge brought by two drivers whose...",
+            "url": "https://techcrunch.com/2023/10/05/uber-slow-on-algo-transparency/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Bc9.MDwURSNyM52CB.MUpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/23097f00949bad10746f503b7790b8b1",
+            "publishedAt": "2023-10-05T18:00:06Z",
+            "content": "Uber has been found to have failed to comply with European Union algorithmic transparency requirements in a legal challenge brought by two drivers whose accounts were terminated by the ride-hailing g… [+6437 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "3D-printed stem cells could help treat brain injuries",
+            "description": "In a scientific first, researchers at theUniversity of Oxford have 3D printed stem cells that can mimic the architecture of the cerebral cortex, the human brain’s outer layer. The technique could potentially be used to treat brain injuries. Such injuries typi…",
+            "url": "https://thenextweb.com/news/3d-printed-stem-cells-help-treat-brain-injuries",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-17-1.jpg&signature=669137c2d27d3aab8c9eb4ff9d9ba67d",
+            "publishedAt": "2023-10-05T14:54:43Z",
+            "content": "In a scientific first, researchers at theUniversity of Oxford have 3D printed stem cells that can mimic the architecture of the cerebral cortex, the human brains outer layer. The technique could pote… [+1972 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "How does the Pixel 8 stack up against the iPhone 15",
+            "description": "Google launched the Pixel 8 series on October 4. The company relied on showing Google’s AI prowess as a core selling point. Google’s launch comes weeks after Apple launched its new iPhone 15 series of devices. That’s why we wanted to compare the specification…",
+            "url": "https://techcrunch.com/2023/10/05/how-does-the-pixel-8-stack-up-against-the-iphone-15/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/Pixel-8-Pro-Camera.jpg?w=1200",
+            "publishedAt": "2023-10-05T13:23:03Z",
+            "content": "Google launched the Pixel 8 series on October 4. The company relied on showing Google’s AI prowess as a core selling point. Google’s launch comes weeks after Apple launched its new iPhone 15 series o… [+3370 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "German-French consortium to build EU’s first exascale supercomputer",
+            "description": "Today, France’s Eviden (part of cybersecurity, cloud, and high-performance computing group Atos) and German modular supercomputing company ParTec, announced they had won a contract to provide the very first exascale supercomputer in Europe. The JUPITER projec…",
+            "url": "https://thenextweb.com/news/german-french-consortium-european-exascale-computer-jupiter",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fexascalesupercomputer-e1696506094750.jpg&signature=cc04b884a205f886b524caed9c9454d1",
+            "publishedAt": "2023-10-05T12:14:10Z",
+            "content": "Today, Frances Eviden (part of cybersecurity, cloud, and high-performance computing group Atos) and German modular supercomputing company ParTec, announced they had won a contract to provide the very… [+2473 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "UK investigates Amazon, Microsoft cloud services over market dominance concerns",
+            "description": "The UK’s competition watchdog (CMA) has opened an investigation into Amazon’s and Microsoft’s cloud services after concerns over their dominant position in the market. The move follows a study by telecoms regulator Ofcom, which “identified features that make …",
+            "url": "https://thenextweb.com/news/uk-investigates-amazon-microsoft-cloud-services",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-17.jpg&signature=fec581b07288193be936860ce1a0552e",
+            "publishedAt": "2023-10-05T09:30:17Z",
+            "content": "The UKs competition watchdog (CMA) has opened an investigation into Amazons and Microsofts cloud services after concerns over their dominant position in the market.\r\nThe move follows a study by telec… [+2230 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "X cuts headlines from link previews as Musk wants users posting directly on the platform",
+            "description": "X, formerly Twitter, has started cutting headlines from link cards on the iOS app and on the web. This means you will see just an image with the domain name of the link on the bottom left, which is easy to miss. The move is part of Elon Musk’s efforts to get …",
+            "url": "https://techcrunch.com/2023/10/05/x-cuts-headlines-from-link-previews-as-musk-wants-users-posting-directly-on-the-platform/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-pattern.jpg?resize=1200,675",
+            "publishedAt": "2023-10-05T08:49:29Z",
+            "content": "X, formerly Twitter, has started cutting headlines from link cards on the iOS app and on the web. This means you will see just an image with the domain name of the link on the bottom left, which is e… [+2015 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Apple Watch’s new double tap gesture is now live in the watchOS 10.1 public beta",
+            "description": "In September, Apple introduced the Apple Watch Series 9 at its annual event, which included a new gesture: the double tap. The gesture, which gives users a new way to interact with their watch, has not yet been publicly available to test, as it isn’t expected…",
+            "url": "https://techcrunch.com/2023/10/04/apple-watchs-new-double-tap-gesture-is-now-live-in-the-watchos-10-1-public-beta/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/apple-watch-series-9-double-tap-e1694539020989.jpg?w=1200",
+            "publishedAt": "2023-10-04T18:02:44Z",
+            "content": "In September, Apple introduced the Apple Watch Series 9 at its annual event, which included a new gesture: the double tap. The gesture, which gives users a new way to interact with their watch, has n… [+2462 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "This blisteringly hot AI-powered grill cooks food ‘up to 10x faster’",
+            "description": "UK startup Seergrills has invented the world’s first AI-enabled grill that is so insanely hot  it can cook food up to 10x faster than conventional methods.  The mean BBQ machine — dubbed Perfecta — achieves this feat using proprietary NeuralFire technology. T…",
+            "url": "https://thenextweb.com/news/ai-powered-grill-cooks-food-up-to-10x-faster-perfect-steak",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fseergrills-BBQ.jpg&signature=cd73479302c0cbd19fb9a3c602aff91d",
+            "publishedAt": "2023-10-04T14:48:09Z",
+            "content": "UK startup Seergrills has invented the worlds first AI-enabled grill that is so insanely hot  it can cook food up to 10x faster than conventional methods. \r\nThe mean BBQ machine dubbed Perfecta achie… [+2403 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "Estonian mission will deploy ‘plasma brake’ to deorbit satellites faster",
+            "description": "Estonia’s ESTCube-2 satellite is set for takeoff this week with an ambitious mission: the first demonstration of “plasma brake” technology to deorbit satellites faster and help reduce space debris. To achieve this, ESTCube-2 will also for the first time use e…",
+            "url": "https://thenextweb.com/news/estonian-mission-plasma-brake-deorbit-satellites-faster",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-16-1.jpg&signature=3b0841753545b8754463e8d7700a85f5",
+            "publishedAt": "2023-10-04T13:00:00Z",
+            "content": "Estonias ESTCube-2 satellite is set for takeoff this week with an ambitious mission: the first demonstration of plasma brake technology to deorbit satellites faster and help reduce space debris.\r\nTo … [+2525 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "VC Atomico raises €1B in glimmer of hope for European tech startups",
+            "description": "It is no secret that European tech funding has seen an alarming decline throughout the past 24 months. Thankfully, there are still some bright spots. London-based venture capital firm Atomico is challenging the trend, having raised $1.1bn (€1.05bn) of new fun…",
+            "url": "https://thenextweb.com/news/vc-atomico-raises-e1b-glimmer-hope-european-tech-startups",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fhappytechfounders-e1696419326729.jpg&signature=acb0581c4ac8277f79d6648b8616a9ff",
+            "publishedAt": "2023-10-04T11:40:31Z",
+            "content": "It is no secret that European tech funding has seen an alarming decline throughout the past 24 months. Thankfully, there are still some bright spots. London-based venture capital firm Atomico is chal… [+2419 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "Meta proposes ad-free service for EU users — but you’ll have to pay for it",
+            "description": "Meta is considering charging EU users €13 a month to access an ad-free version of Instagram or Facebook on their phones, the Wall Street Journal reports. The tech giant is also considering a €16 fee to use Instagram and Facebook without adverts on desktop. Ac…",
+            "url": "https://thenextweb.com/news/meta-ad-free-service-eu-users-data-privacy",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-12.jpg&signature=3d052642399f5a864588858cedcda0f6",
+            "publishedAt": "2023-10-04T10:09:49Z",
+            "content": "Meta is considering charging EU users 13 a month to access an ad-free version of Instagram or Facebook on their phones, the Wall Street Journal reports.\r\nThe tech giant is also considering a 16 fee t… [+2546 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "Job satisfaction in European tech on the rise — but Dutch, Swedes least happy",
+            "description": "Levels of job satisfaction among young tech workers in Europe have bounced back this year. The proportion of employees feeling unhappy in their role fell from 35% in 2022 to 15% in 2023. The findings come from the Young Generation in Tech report (backed by Ei…",
+            "url": "https://thenextweb.com/news/job-satisfaction-european-tech-on-the-rise",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-16.jpg&signature=a11cca35a3d17a89a7ac9e707dbbff4f",
+            "publishedAt": "2023-10-03T23:05:16Z",
+            "content": "Levels of job satisfaction among young tech workers in Europe have bounced back this year. The proportion of employees feeling unhappy in their role fell from 35% in 2022 to 15% in 2023.\r\nThe finding… [+3038 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Electric Hydrogen is the green hydrogen industry's first unicorn | TechCrunch",
+            "description": "Investors have historically been skeptical of green hydrogen. High production costs, expensive infrastructure builds, competition with batteries and",
+            "url": "https://techcrunch.com/2023/10/03/electric-hydrogen-is-the-green-hydrogen-industrys-first-unicorn/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/Small-cell-Testing-in-EH2-Natick-Accelerated-Lifetime-Testing-Facility-2.jpg?resize=1200,802",
+            "publishedAt": "2023-10-03T21:38:36Z",
+            "content": "Investors have historically been skeptical of green hydrogen. High production costs, expensive infrastructure builds, competition with batteries and minimal government support have made the green hyd… [+3011 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Spotify to include a selection of audiobooks with its Premium subscription | TechCrunch",
+            "description": "Spotify today unveiled what's next for the future of its audiobooks service. At an event hosted in its New York offices on Tuesday afternoon, the company",
+            "url": "https://techcrunch.com/2023/10/03/spotify-to-include-a-selection-of-audiobooks-with-its-premium-subscription/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/spotify-daniel-ek.jpg?resize=1200,688",
+            "publishedAt": "2023-10-03T20:36:59Z",
+            "content": "Spotify today unveiled what’s next for the future of its audiobooks service. At an event hosted in its New York offices on Tuesday afternoon, the company announced a new business model where it will … [+5123 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aria Alamalhodaei",
+            "title": "7 companies to provide NASA with commercial satellite imagery under $476M contract | TechCrunch",
+            "description": "Umbra, Capella Space and GHGSat are among the seven companies that will provide NASA with commercial satellite imagery.",
+            "url": "https://techcrunch.com/2023/10/03/7-companies-to-provide-nasa-with-commercial-satellite-imagery-under-476m-contract/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/niagara-falls-umbra.jpeg?resize=1200,807",
+            "publishedAt": "2023-10-03T20:14:38Z",
+            "content": "Umbra, Capella Space and GHGSat are among the seven companies that will provide NASA with commercial satellite imagery, part of an acquisition program that has a maximum potential value of $476 milli… [+1663 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "U.S. lawmakers ask TikTok about its ByteDance ties after recent exec transfers between the companies | TechCrunch",
+            "description": "U.S. lawmakers have written a letter to TikTok questioning its independence from its Chinese parent company ByteDance, in the wake of a recent report from",
+            "url": "https://techcrunch.com/2023/10/03/u-s-lawmakers-ask-tiktok-about-its-bytedance-ties-after-recent-exec-transfers-between-the-companies/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1177990253.jpg?resize=1200,852",
+            "publishedAt": "2023-10-03T19:03:29Z",
+            "content": "U.S. lawmakers have written a letter to TikTok questioning its independence from its Chinese parent company ByteDance, in the wake of a recent report from The Wall St. Journal that noted that several… [+3136 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "Swiss startup opens plant that permanently stores CO2 in waste concrete",
+            "description": "Neustark, a spin-off from Switzerland’s ETH Zurich university, has inaugurated its first commercial-scale carbon capture plant in the EU, located at a construction waste recycling facility on the outskirts of Berlin.  The plant, built in partnership with buil…",
+            "url": "https://thenextweb.com/news/swiss-startup-neustark-carbon-capture-concrete",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fneustark_concrete-co2-capture-storage.jpg&signature=7da401d0cb2d9ee370bb9352d7c3d45f",
+            "publishedAt": "2023-10-03T15:09:25Z",
+            "content": "Neustark, a spin-off from Switzerlands ETH Zurich university, has inaugurated its first commercial-scale carbon capture plant in the EU, located at a construction waste recycling facility on the outs… [+2210 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "It’s ‘insane’ to let TikTok operate in Europe, NYU professor warns",
+            "description": "The decision to permit TikTok in Europe is “insane,” according to Professor Scott Galloway of New York University. At an event in Helsinki last week, Galloway described TikTok as probably “the most ascendant technology company in history” — and “a national de…",
+            "url": "https://thenextweb.com/news/insane-tiktok-in-europe-nyu-professor-scott-galloway",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2Ftiktok.jpg&signature=efb59368fa73c7fd139799f8d5bdf674",
+            "publishedAt": "2023-10-03T14:47:46Z",
+            "content": "The decision to permit TikTok in Europe is insane, according to Professor Scott Galloway of New York University.\r\nAt an event in Helsinki last week, Galloway described TikTok as probably the most asc… [+2594 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "These are the key technologies the EU wants to safeguard from China",
+            "description": "In the latest round of geopolitical tech chess, the European Commission today published a list of critical technologies to keep safe from geopolitical rivals, in an effort to bolster the bloc’s own economic (and not only) security.  The document, prepared by …",
+            "url": "https://thenextweb.com/news/key-technologies-eu-wants-to-keep-from-china",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FmapEuropetech-e1696341924126.jpg&signature=1ead97d29ff1df7b4da0812926ea08ce",
+            "publishedAt": "2023-10-03T14:11:56Z",
+            "content": "In the latest round of geopolitical tech chess, the European Commission today published a list of critical technologies to keep safe from geopolitical rivals, in an effort to bolster the blocs own ec… [+5655 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "Wattpad ditches ‘Paid Stories’ for a freemium model | TechCrunch",
+            "description": "After launching its “Paid Stories” program in 2019, the social storytelling platform Wattpad is now replacing it with a new freemium model called “Wattpad With the new model, authors can hide certain chapters behind a paywall while also allowing readers to ac…",
+            "url": "https://techcrunch.com/2023/10/03/wattpad-ditches-paid-content-stories-program-for-a-freemium-model/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/wattpad-logo.jpg?resize=1200,800",
+            "publishedAt": "2023-10-03T13:05:27Z",
+            "content": "After launching its Paid Stories program in 2019, the social storytelling platform Wattpad is now replacing it with a new freemium model called Wattpad Originals that gives authors the best of both w… [+2495 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Paul Sawers",
+            "title": "Science lab automation and robotics startup Automata raises $40M",
+            "description": "Automata, a company that combines software and hardware to automate science labs around the globe, has raised $40 million in an equity-based round of funding...",
+            "url": "https://techcrunch.com/2023/10/03/lab-automation-and-robotics-startup-automata-raises-40m/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sJz5__Djkvuel08hbq7zhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/techcrunch_350/bf52ea033bb0b21d2525010e8fa7e075",
+            "publishedAt": "2023-10-03T12:34:36Z",
+            "content": "Automata, a company that combines software and hardware to automate science labs around the globe, has raised $40 million in an equity-based round of funding, as the U.K.-based startup looks to doubl… [+2439 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Sparx wants to do for enterprise what Truebill did for consumer recurring bills | TechCrunch",
+            "description": "Sparx is very much in its early stages, however, in the past six months, the company has already reached profitability.",
+            "url": "https://techcrunch.com/2023/10/03/sparx-enterprise-expenses-truebill/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/SaaS-final.png?resize=1200,670",
+            "publishedAt": "2023-10-03T12:31:14Z",
+            "content": "Sparx, a startup out to manage financial operations for enterprises, secured $3.1 million in seed capital to continue developing its free suite of automated products meant to save companies money on … [+2663 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "Welsh startup to launch semiconductor manufacturing satellite",
+            "description": "Welsh startup Space Forge is preparing for a second shot at propelling its semiconductor manufacturing satellite into orbit.  ForgeStar-1, as the new satellite is known, will be launched from the US either later this year or early next. The satellite contains…",
+            "url": "https://thenextweb.com/news/welsh-startup-space-semiconductor-manufacturing-satellite",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fspace-forge-semiconductor-manufacturing.jpg&signature=1e2f4747852a1066d684f3a391a17f31",
+            "publishedAt": "2023-10-03T10:34:43Z",
+            "content": "Welsh startup Space Forge is preparing for a second shot at propelling its semiconductor manufacturing satellite into orbit. \r\nForgeStar-1, as the new satellite is known, will be launched from the US… [+2594 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "The new Ford F-150 Lightning Flash puts tech and battery range on center stage",
+            "description": "Ford is launching another version of its all-electric F-150 Lightning pickup truck that prioritizes tech and battery range over other premium features as the...",
+            "url": "https://techcrunch.com/2023/10/03/ford-launches-new-f-150-lightning-flash/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/h1Fm4BWM2NFdKNUNgJAQTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/b477c7658d14e14dd8aa21e2a6a869e2",
+            "publishedAt": "2023-10-03T10:00:18Z",
+            "content": "Ford is launching another version of its all-electric F-150 Lightning pickup truck that prioritizes tech and battery range over other premium features as the automaker tries to respond more quickly t… [+1532 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Paul Sawers",
+            "title": "HMD Global starts manufacturing in Europe with the 'Made in Hungary' Nokia XR21 5G phone | TechCrunch",
+            "description": "HMD Global starts manufacturing in Europe with the 'Made in Hungary' Nokia XR21 5G phone | TechCrunchtechcrunch.com",
+            "url": "https://techcrunch.com/2023/10/03/nokia-hmd-global-europe-smartphone/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/NOKIAXR21-e1696321867309.jpg?resize=1200,674",
+            "publishedAt": "2023-10-03T09:57:12Z",
+            "content": "HMD Global, the phone maker and marketer behind the Nokia mobile phone brand, has launched its very first smartphone manufactured in Europe.\r\nThe news comes some six months after the Finnish company … [+3960 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "Unitary AI picks up $15M for its multimodal approach to video content moderation | TechCrunch",
+            "description": "Content moderation continues to be a contentious topic in the world of online media. New regulations and public concern are likely to keep it as a",
+            "url": "https://techcrunch.com/2023/10/02/unitary-ai-picks-up-15m-for-its-multimodal-approach-to-video-content-moderation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/Screenshot-2023-10-03-at-01.44.37.png?resize=1200,820",
+            "publishedAt": "2023-10-03T07:40:55Z",
+            "content": "Content moderation continues to be a contentious topic in the world of online media. New regulations and public concern are likely to keep it as a priority for many years to come. But weaponised AI a… [+6104 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "Electrolyser firm Hystar to build huge hydrogen factory in Norway",
+            "description": "Norwegian startup Hystar has announced plans to construct a fully automated 4GW electrolyser factory on the outskirts of Oslo, scheduled for completion in 2026. The company already operates a small research and production facility at the site, which has 50MW …",
+            "url": "https://thenextweb.com/news/electrolyser-hystar-hydrogen-factory-norway-startup-funding",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FHydrogen-molecule-hystar.jpeg&signature=c6a256bcd016113125184139da149254",
+            "publishedAt": "2023-10-03T06:11:51Z",
+            "content": "Norwegian startup Hystar has announced plans to construct a fully automated 4GW electrolyser factory on the outskirts of Oslo, scheduled for completion in 2026.\r\nThe company already operates a small … [+1962 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tage Kene-okafor",
+            "title": "Stitch raises $25M Series A extension led by Ribbit Capital, increasing the round’s total to $46M | TechCrunch",
+            "description": "Cape Town-based API fintech Stitch has raised an extension round led by Ribbit Capital, bringing its total Series A to $46 million.",
+            "url": "https://techcrunch.com/2023/10/02/stitch-raises-25m-series-a-extension-led-by-ribbit-capital-increasing-the-rounds-total-to-46m/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/04A49D5E-A770-49B1-81EC-1A018DB51880.jpeg?w=1170",
+            "publishedAt": "2023-10-03T06:04:19Z",
+            "content": "Open banking, in which traditional banks release their data via application programming interfaces (APIs) to enable the development of new financial services for their consumers, has been one of the … [+6953 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "Social media has new moderation problems. This startup has a solution",
+            "description": "Social media is in the crosshairs of European regulators. In both the EU and UK, sweeping new laws now require platforms to identify and remove illegal content — or face severe penalties. Unitary, a startup based in London, has proposed a solution: an AI-powe…",
+            "url": "https://thenextweb.com/news/unitary-ai-social-media-content-moderation",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2FUntitled-design4.jpg&signature=0780397fe23ddbc32f4db7141cc508fb",
+            "publishedAt": "2023-10-03T05:00:39Z",
+            "content": "Social media is in the crosshairs of European regulators. In both the EU and UK, sweeping new laws now require platforms to identify and remove illegal content or face severe penalties.\r\nUnitary, a s… [+3397 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Ousted Flexport CEO Dave Clark strikes back",
+            "description": "Dave Clark, the former Amazon executive who was ousted as CEO of Flexport just a year into the job, fired back at its founder and board, calling recent...",
+            "url": "https://techcrunch.com/2023/10/02/ousted-flexport-ceo-dave-clark-strikes-back/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/g8mrMFp7rtD6aXqbM6rshA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/d50b4851df09574795a1de54c8f8c61d",
+            "publishedAt": "2023-10-02T21:26:38Z",
+            "content": "Dave Clark, the former Amazon executive who was ousted as CEO of Flexport just a year into the job, fired back at its founder and board, calling recent reporting on the logistics company \"deeply conc… [+3553 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mary Ann Azevedo",
+            "title": "Visa earmarks $100M to invest in generative AI companies | TechCrunch",
+            "description": "Visa announced today that it plans to invest $100 million in companies developing generative AI technologies and applications “that will impact the future The investments will be made through Visa Ventures, the card giant’s 16-year-old global corporate invest…",
+            "url": "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816",
+            "publishedAt": "2023-10-02T21:22:53Z",
+            "content": "Visa announced today that it plans to invest $100 million in companies developing generative AI technologies and applications that will impact the future of commerce and payments.\r\nThe investments wi… [+1232 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Elon Musk's X Corp faces trademark lawsuit from social media ad agency | TechCrunch",
+            "description": "When Elon Musk rebranded Twitter to X this summer, there were concerns that the new company could face trademark lawsuits as there were nearly 900 active",
+            "url": "https://techcrunch.com/2023/10/02/elon-musks-x-corp-faces-trademark-lawsuit-from-social-media-ad-agency/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",
+            "publishedAt": "2023-10-02T20:58:48Z",
+            "content": "When Elon Musk rebranded Twitter to X this summer, there wereconcerns that the new company could face trademark lawsuits as there were nearly 900 active U.S. trademark registrations that cover the le… [+3364 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Annie Njanja",
+            "title": "Kenyan legislative committee calls for Worldcoin shutdown in the country | TechCrunch",
+            "description": "The report urged the regulator to disable Worldcoin’s physical and virtual presence “including blacklisting the IP addresses of related websites.”",
+            "url": "https://techcrunch.com/2023/10/02/worldcoin-shutdown-in-kenya/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-26-at-3.37.15-PM.png?w=1192",
+            "publishedAt": "2023-10-02T19:52:17Z",
+            "content": "A Kenyan parliamentary committee formed in August to investigate operations and activities of Sam Altmans crypto project, Worldcoin, in the East African country, has recommended for it to be shut dow… [+3057 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dominic-madori Davis",
+            "title": "Fearless Fund barred from awarding grant to Black women founders | TechCrunch",
+            "description": "Experts and venture industry insiders following the Fearless Fund case remain dumbfounded as it continues to unfold.",
+            "url": "https://techcrunch.com/2023/10/02/fearless-fund-trial-aaer/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1692022655.jpg?w=1024",
+            "publishedAt": "2023-10-02T19:45:05Z",
+            "content": "The Fearless Fund suit is heating up in Atlantas 11th Circuit.\r\nA panel of three appellate judges on Saturday temporarily blocked Fearless Fund from awarding its $20,000 Fearless Strivers Grant to Bl… [+4299 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "IronNet, founded by former NSA director, shuts down and lays off staff | TechCrunch",
+            "description": "The cybersecurity company raised more than $400 million to date, but ceased operations and said it likely can't pay back its investors.",
+            "url": "https://techcrunch.com/2023/10/02/ironnet-founded-by-former-nsa-director-shuts-down-and-lays-off-staff/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/05/tcdisrupt-ny17-9615.jpg?resize=1200,800",
+            "publishedAt": "2023-10-02T19:16:25Z",
+            "content": "IronNet, a once-promising cybersecurity startup founded by a former NSA director and funded by cyber and defense investors, has shuttered and laid off its remaining staff following its collapse.\r\nIn … [+2115 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Harri Weber",
+            "title": "Queer social app Lex gets a new CEO and $5.6M to grow | TechCrunch",
+            "description": "Lex, the queer app inspired by vintage lesbian personals, just raised $5.6 million and elevated co-founder Jennifer Lewis from COO to CEO.",
+            "url": "https://techcrunch.com/2023/10/02/queer-social-app-lex-gets-a-new-ceo-and-5-6m-to-grow/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/lex-queer-social-app-Michelle_Jen_Kel.jpg?resize=1200,871",
+            "publishedAt": "2023-10-02T18:54:08Z",
+            "content": "Lex, the app inspired by vintage lesbian personals, just raised $5.6 million in seed funding and elevated co-founder Jennifer Lewis from COO to CEO.\r\nAs a result, founding CEO Kel Rakowski steps into… [+3072 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "This week in AI: AI-powered personalities are all the rage | TechCrunch",
+            "description": "In this edition of This Week in AI, we recap the launch of Meta's AI-driven chatbots, plus new and emerging research in machine learning.",
+            "url": "https://techcrunch.com/2023/10/02/this-week-in-ai-ai-powered-personalities-are-all-the-rage/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/Screen-Shot-2023-09-27-at-12.33.24-PM.png?resize=1200,675",
+            "publishedAt": "2023-10-02T18:09:04Z",
+            "content": "Keeping up with an industry as fast-moving as AI is a tall order. So until an AI can do it for you, heres a handy roundup of recent stories in the world of machine learning, along with notable resear… [+9766 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "Beams helps product teams shine a light on the work that matters most | TechCrunch",
+            "description": "Beams, a startup that participated in the TechCrunch Disrupt Battlefield 200, wants to make it easier to focus on the work that matters.",
+            "url": "https://techcrunch.com/2023/10/02/beams-helps-product-teams-shine-a-light-on-the-work-that-matters-most/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1029961918.jpg?resize=1200,801",
+            "publishedAt": "2023-10-02T17:07:19Z",
+            "content": "Beams co-founders, Jana Schellong and Mihri Minaz, see a fundamental problem with how product teams work. While they have productivity tools that are supposed to help them work smarter, too often the… [+3953 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Humata AI summarizes and answers questions about your PDFs | TechCrunch",
+            "description": "Humata AI, a startup developing a platform to summarize and answer questions about documents, has raised seed capital from GV and others.",
+            "url": "https://techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1218924349.jpg?resize=1200,1021",
+            "publishedAt": "2023-10-02T16:37:47Z",
+            "content": "Cyrus Khajvandi, a Stanford biology graduate and two-time entrepreneur, often found it challenging to stay on top of scientific research while managing his daily workload. Recognizing that he wasn’t … [+3429 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "Amsterdam’s Orquesta raises €800,000 for no-code LLM gateway",
+            "description": "Amsterdam-based startup Orquesta today announced an oversubscribed €800,000 pre-seed funding round. The company has developed a platform through which companies can integrate various Large Language Models (LLMs) directly into their business operations.  Gener…",
+            "url": "https://thenextweb.com/news/amsterdam-orquesta-startup-llm-no-code-gateway-pre-seed-funding",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Ffounders-Orquesta-e1696260827666.jpg&signature=c261300d6f28b74c305da7613dfa4b11",
+            "publishedAt": "2023-10-02T15:39:08Z",
+            "content": "Amsterdam-based startup Orquesta today announced an oversubscribed 800,000 pre-seed funding round. The company has developed a platform through which companies can integrate various Large Language Mo… [+2557 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Spotify spotted developing AI-generated playlists created with prompts | TechCrunch",
+            "description": "Following the successful launch of Spotify's AI-powered DJ feature and, more recently, added support for AI-translated podcasts, Spotify now appears to be",
+            "url": "https://techcrunch.com/2023/10/02/spotify-spotted-developing-ai-generated-playlists-created-with-prompts/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/spotify-app-GettyImages-1689920063.jpeg?resize=1200,800",
+            "publishedAt": "2023-10-02T15:22:47Z",
+            "content": "Following the successful launch of Spotify’s AI-powered DJ feature and, more recently, added support for AI-translated podcasts, Spotify now appears to be developing another means of using AI in its … [+3139 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "£20B plan to power the UK with Moroccan sunshine might actually go ahead",
+            "description": "From fusion energy plants and gigantic wind farms to tidal energy mega-turbines, there is no shortage of ambitious renewable energy projects underway in Europe. But when British startup Xlinks announced in 2021 its plans to send several gigawatts of Moroccan …",
+            "url": "https://thenextweb.com/news/20b-plan-uk-morocco-solar-energy-subsea-cable",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fdesert-solar-morocco-uk-subsea-cable.jpeg&signature=0162891807949d24a8cde9009869de66",
+            "publishedAt": "2023-10-02T15:07:06Z",
+            "content": "From fusion energy plants and gigantic wind farms to tidal energy mega-turbines, there is no shortage of ambitious renewable energy projects underway in Europe.\r\nBut when British startup Xlinks annou… [+4394 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Tesla misses on Q3 delivery expectations",
+            "description": "Tesla delivered 435,059 vehicles in the third quarter, a result that missed Wall Street expectations and was nearly 7% lower than the previous quarter...",
+            "url": "https://techcrunch.com/2023/10/02/tesla-misses-on-q3-delivery-expectations/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_Y_8CtnDvmL.Nr8mdYxuLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/5cc42823744331f3b04d5240ea2b1fba",
+            "publishedAt": "2023-10-02T14:21:29Z",
+            "content": "Tesla delivered 435,059 vehicles in the third quarter, a result that missed Wall Street expectations and was nearly 7% lower than the previous quarter. Tesla said planned downtimes at its factories l… [+1144 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jagmeet Singh",
+            "title": "India's national logistics portal exposed sensitive personal data, trade records",
+            "description": "India's state-owned logistics portal has fixed misconfigurations and vulnerabilities that exposed sensitive personal data and various state and private trade...",
+            "url": "https://techcrunch.com/2023/10/02/india-national-logistics-portal-marine-data-expose/",
+            "urlToImage": "https://media.zenfs.com/en/techcrunch_350/28d13efec5ecbb3e7ffb478685cd636a",
+            "publishedAt": "2023-10-02T11:45:29Z",
+            "content": "India's state-owned logistics portal has fixed misconfigurations and vulnerabilities that exposed sensitive personal data and various state and private trade records.\r\nCalled the National Logistics P… [+2453 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Jonathan Keane",
+            "title": "Poland wants EU to stop sleeping on digital IDs",
+            "description": "The European Commission has been too focused on tackling Big Tech and not enough on improving digital services for citizens. That is according to Poland’s minister of digital affairs, Janusz Cieszyński. He believes the EU needs to shift its digital policy foc…",
+            "url": "https://thenextweb.com/news/poland-eu-stop-sleeping-digital-ids",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fdigital-ids-EU-e1696246011993.jpg&signature=cb24fb913339d1e5cdf9f6e69dc06949",
+            "publishedAt": "2023-10-02T11:34:40Z",
+            "content": "The European Commission has been too focused on tackling Big Tech and not enough on improving digital services for citizens.\r\nThat is according to Polands minister of digital affairs, Janusz Cieszysk… [+7607 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Bird loses its NYSE wings, Uber gets tight with taxis and Tesla gets sued again for racial discrimination | TechCrunch",
+            "description": "The Station is a weekly newsletter about transportation. This week, Tesla gets sued, Uber gets tight with taxis and Bird is delisted.",
+            "url": "https://techcrunch.com/2023/10/02/bird-loses-its-nyse-wings-uber-gets-tight-with-taxis-and-tesla-gets-sued-again-for-racial-discrimination/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-931414484.jpg?resize=1200,800",
+            "publishedAt": "2023-10-02T09:05:18Z",
+            "content": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here  just click The Station  to receive the newsletter every weekend in your inbox. Subscribe for free. \r\nWelcome b… [+8151 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "Spotify ‘unfairly held back’ by Google and Apple, CEO says",
+            "description": "While on a tour to woo UK lawmakers ahead of the adoption of the Digital Markets, Competition and Consumers Bill, Daniel Ek has taken a swing at big tech’s dominance. \nThe Spotify CEO urged the UK to “show leadership” as it prepared to regu",
+            "url": "https://thenextweb.com/news/spotify-unfairly-held-back-by-google-and-apple-ceo-says",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fek-in-front-of-cmp-e1696236560388.jpg&signature=998366d49d9d5edbc2d4b8dbf87341ed",
+            "publishedAt": "2023-10-02T09:00:40Z",
+            "content": "While on a tour to woo UK lawmakers ahead of the adoption of the Digital Markets, Competition and Consumers Bill, Daniel Ek has taken a swing at big techs dominance. \r\nThe Spotify CEO urged the UK to… [+2899 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "New AI tool promises to rig and animate static models in moments",
+            "description": "Anything World, a 3D content creation startup, has launched a new AI tool that rapidly rigs and animates static models.\r\n\r\nThe product, named Animate Anything, aims to democratise 3D ...",
+            "url": "https://thenextweb.com/news/anything-world-launches-ai-3d-animation-tool",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2FUntitled-design6.jpg&signature=33195668d082a5d36d9744da8822ff15",
+            "publishedAt": "2023-10-02T07:04:15Z",
+            "content": "Anything World, a 3D content creation startup, has launched a new AI tool that rapidly rigs and animates static models.\r\nThe product, named Animate Anything, aims to democratise 3D animation and game… [+2187 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tim De Chant",
+            "title": "How to raise a Series A in today’s market | TechCrunch",
+            "description": "Three investors shared their perspectives on what’s changed, what’s working today, and what advice they’re giving founders.",
+            "url": "https://techcrunch.com/2023/10/01/raising-series-a-funding/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/raising-a-series-a-panel-disrupt-2023.jpeg?resize=1200,800",
+            "publishedAt": "2023-10-01T15:02:14Z",
+            "content": "If youre an early-stage founder, the crazy days of 2021 are a distant memory. Money is tight, and the process of getting more is as unsettled as ever.\r\nThe past few tumultuous years have tossed out t… [+1947 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jacquelyn Melinek",
+            "title": "FTX lawsuit timeline: How did Sam Bankman-Fried get here? | TechCrunch",
+            "description": "Former FTX CEO Sam Bankman-Fried's trial begins Tuesday. Here's what you need to know.",
+            "url": "https://techcrunch.com/2023/10/01/ftx-lawsuit-timeline/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1454050629.jpg?resize=1200,708",
+            "publishedAt": "2023-10-01T14:42:13Z",
+            "content": "The highly anticipated criminal trial for Sam Bankman-Fried, former CEO of bankrupt crypto exchange FTX, begins Tuesday to determine whether hes guilty of seven counts of fraud and conspiracy.\r\nThe 3… [+5285 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mary Ann Azevedo",
+            "title": "Why we're seeing so many seed-stage deals in fintech | TechCrunch",
+            "description": "Across the board in all industries, except perhaps AI, we’ve seen a big drop in later-stage funding deals and no shortage of seed-stage rounds.",
+            "url": "https://techcrunch.com/2023/10/01/why-were-seeing-so-many-seed-stage-deals-in-fintech/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1320011183.jpg?resize=1200,798",
+            "publishedAt": "2023-10-01T14:19:45Z",
+            "content": "Welcome back to The Interchange, where we take a look at the hottest fintech news of the previous week. If you want to receive The Interchange directly in your inbox every Sunday, head here to sign u… [+4868 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jacquelyn Melinek",
+            "title": "Pudgy Penguins' approach may be the answer to fixing NFTs' revenue problems | TechCrunch",
+            "description": "The company's toy-focused expansion is its bet that NFTs should have a broader presence, one that’s not limited to the digital world.",
+            "url": "https://techcrunch.com/2023/09/29/pudgy-penguins-nfts-revenue-problems/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/FaZp7iSXoAAwdgz.jpeg?resize=1200,799",
+            "publishedAt": "2023-09-29T18:31:46Z",
+            "content": "Pudgy Penguins was once solely known for its 8,888 NFT collection. But ever since 24-year-old Luca Netz bought the project for $2.5 million and took over as CEO in April 2022, it has evolved into an … [+2471 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "So what happened to Blue Apron? | TechCrunch",
+            "description": "How Blue Apron got to where it is today an interesting story, and one that we should trace from the company's IPO through to today.",
+            "url": "https://techcrunch.com/2023/09/29/wonder-group-blue-apron-acquisition/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/06/gettyimages-803395790.jpg?resize=1200,800",
+            "publishedAt": "2023-09-29T16:08:53Z",
+            "content": "News that Blue Apron is selling itself to Wonder Group Marc Lore’s latest for around $100 million marks the end of the former startup’s life as a public company.\r\nBlue Apron raised a $135 million Ser… [+1258 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "X (Twitter) has paid almost $20M to creators, CEO says",
+            "description": "The company formerly known as Twitter has paid out nearly $20 million to creators, according to a post from X CEO Linda Yaccarino. The platform, now called X, began paying creators in July for a share of the ad revenue they earned from ads served in the repli…",
+            "url": "https://techcrunch.com/2023/09/29/x-twitter-has-paid-almost-20m-to-creators-ceo-says/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-pattern.jpg?resize=1200,675",
+            "publishedAt": "2023-09-29T15:32:26Z",
+            "content": "The company formerly known as Twitter has paid out nearly $20 million to creators, according to a post from X CEO Linda Yaccarino.\r\nThe platform, now called X, began paying creators in July for a sha… [+1459 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jacquelyn Melinek",
+            "title": "Three Arrows Capital co-founder Zhu arrested in Singapore airport, sentenced four months in prison | TechCrunch",
+            "description": "The liquidators behind Three Arrows Capital (3AC), the now-defunct crypto hedge fund, shared that the firm’s co-founder Su Zhu was arrested in Singapore Three Arrows Capital co-founder Su Zhu arrested in Singapore airport and sentenced to four months in priso…",
+            "url": "https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/cryptocurrency-arrest.jpg?resize=1200,675",
+            "publishedAt": "2023-09-29T14:36:11Z",
+            "content": "The liquidators behind Three Arrows Capital (3AC), the now-defunct crypto hedge fund, shared that the firms co-founder Su Zhu was arrested in Singapore at the Changi Airport while trying to leave the… [+1082 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "Discord is working to resolve a widespread outage caused by 'unusual traffic spikes' | TechCrunch",
+            "description": "Discord is working to resolve a widespread outage caused by 'unusual traffic spikes' | TechCrunchtechcrunch.com",
+            "url": "https://techcrunch.com/2023/09/29/discord-working-resolve-widespread-outage-caused-unusual-traffic-spikes/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1215460368.jpg?resize=1200,800",
+            "publishedAt": "2023-09-29T13:57:19Z",
+            "content": "Discord is currently down for many users, the instant messaging service confirmed on Friday morning. The company says the outage is due to the platform experiencing “unusual traffic spikes.” The issu… [+694 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "Paris-based Mistral releases first generative AI model — and it’s totally free",
+            "description": "Europe’s startup contribution to the generative AI bonanza, Mistral, has released its first model. Mistral 7B is free to download and be used anywhere — including locally.  French AI developer Mistral says its Large Language Model is optimal for low latency, …",
+            "url": "https://thenextweb.com/news/mistral-releases-first-generative-ai-model",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2Frobotcomputer-e1695991828447.jpg&signature=2c7103781911a9b38969fb7597babf80",
+            "publishedAt": "2023-09-29T13:05:15Z",
+            "content": "Europes startup contribution to the generative AI bonanza, Mistral, has released its first model. Mistral 7B is free to download and be used anywhere including locally. \r\nFrench AI developer Mistral … [+2457 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "European Space Agency opens proposal call for lunar mission tech",
+            "description": "The European Space Agency (ESA) is enabling tech companies to take part in its Terrae Novae exploration programme, calling for proposals for small missions to the Moon. Sending the first European astronaut to explore the Moon’s surface stands at the core of t…",
+            "url": "https://thenextweb.com/news/european-space-agency-proposal-call-lunar-mission-tech",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2Fearth-1388003_1280.jpg&signature=2a658c38493b5164f679bb1ac34b86c8",
+            "publishedAt": "2023-09-29T12:01:29Z",
+            "content": "The European Space Agency (ESA) is enabling tech companies to take part in its Terrae Novae exploration programme, calling for proposals for small missions to the Moon.\r\nSending the first European as… [+2588 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Apple revamps iCloud.com with more features for drive, mail and notes",
+            "description": "After issuing updates to iOS, iPadOS, and macOS in the past few weeks, Apple has rolled out a redesigned iCloud.com website with more functionality such as support for browser notifications for Mail and Calendar on a PC, a customizable home page with the abil…",
+            "url": "https://techcrunch.com/2023/09/29/apple-revamps-icloud-com-with-more-features-for-drive-mail-and-notes/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/02/icloud-pattern.jpg?resize=1200,675",
+            "publishedAt": "2023-09-29T10:37:19Z",
+            "content": "After issuing updates to iOS, iPadOS, and macOS in the past few weeks, Apple has rolled out a redesigned iCloud.com website with more functionality such as support for browser notifications for Mail … [+1582 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "UK, Switzerland, and Sweden set for biggest economic boosts from AI in Europe",
+            "description": "The UK, Switzerland, and Sweden are poised to cash in from the AI gold rush, but most of Europe will be a poor nephew to Uncle Sam. So say the expert analysts at Capital Economics, a financial research firm based in London. In a new study, the company assesse…",
+            "url": "https://thenextweb.com/news/ai-to-boost-uk-sweden-switzerland-economies",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2FUntitled-design2.jpg&signature=b429d6682fadf18158df61671423d99b",
+            "publishedAt": "2023-09-29T10:20:43Z",
+            "content": "The UK, Switzerland, and Sweden are poised to cash in from the AI gold rush, but most of Europe will be a poor nephew to Uncle Sam.\r\nSo say the expert analysts at Capital Economics, a financial resea… [+5822 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Linnea Ahlgren",
+            "title": "French antitrust authorities raid Nvidia’s local offices",
+            "description": "Bolstered by the demand for advanced chips for generative AI, Nvidia has had a terrific run of it of late. However, employees at its offices in France were in for a bit of an abrupt awakening on Wednesday as the country’s anticompetition authorities raided th…",
+            "url": "https://thenextweb.com/news/french-antitrust-raid-nvidia-offices",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2Fnvidia-grace-hopper.png&signature=ee3d83973387b5cedda3224b76340444",
+            "publishedAt": "2023-09-29T10:15:03Z",
+            "content": "Bolstered by the demand for advanced chips for generative AI, Nvidia has had a terrific run of it of late. However, employees at its offices in France were in for a bit of an abrupt awakening on Wedn… [+2729 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Judge upholds $18 minimum pay for NYC delivery workers",
+            "description": "In a blow to Uber, DoorDash and Grubhub, a New York judge on Thursday ruled to allow the implementation of the minimum pay rate of $18 per hour for New York ...",
+            "url": "https://techcrunch.com/2023/09/28/judge-upholds-18-minimum-pay-for-nyc-delivery-workers/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3Nd5dTryYMthrujJAnBeTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/4c4033b9b48ee1f8adc496cce2fc4750",
+            "publishedAt": "2023-09-28T22:07:13Z",
+            "content": "In a blow to Uber, DoorDash and Grubhub, a New York judge on Thursday ruled to allow the implementation of the minimum pay rate of $18 per hour for New York City's food delivery workers.\r\nThe deliver… [+3102 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alyssa Stringer",
+            "title": "A comprehensive list of 2023 tech layoffs | TechCrunch",
+            "description": "Here you’ll find a complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2023.",
+            "url": "https://techcrunch.com/2023/09/28/tech-layoffs-2023-list/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/layoffs.jpg?resize=1200,645",
+            "publishedAt": "2023-09-28T20:04:30Z",
+            "content": "Last years techwidereckoning continues. In 2023, layoffs have yet again cost tens of thousands of tech workers their jobs; this time, the workforce reductions have been driven by the biggest names in… [+20893 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Amazon CodeWhisperer gains an enterprise tier | TechCrunch",
+            "description": "Amazon is introducing a new enterprise tier for CodeWhisperer, which adds corporate-oriented customization options.",
+            "url": "https://techcrunch.com/2023/09/28/amazon-codewhisperer-gains-an-enterprise-tier/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/AWSLogo.jpg?resize=1200,737",
+            "publishedAt": "2023-09-28T19:36:14Z",
+            "content": "On the heels of the debut of its Bedrock service for building generative AI apps, Amazon has launched a new enterprise plan for CodeWhisperer, its AI-powered service to generate and suggest code.\r\nTh… [+2614 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jacquelyn Melinek",
+            "title": "Mixin hacked for $200M, Worldcoin eyes greater expansion and Haun Ventures’ execs talk crypto regulation",
+            "description": "As for other news, it’s been an interesting and somewhat slower week for the crypto community.  On Sunday, Hong Kong-based crypto company Mixin lost around $...",
+            "url": "https://techcrunch.com/2023/09/28/mixin-hacked-for-200m-worldcoin-eyes-greater-expansion-and-haun-ventures-execs-talk-crypto-regulation/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Tuomq9t12lya9dNcSAqmsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/techcrunch_350/b59d6d4b5a675618c02107216ca12091",
+            "publishedAt": "2023-09-28T19:00:30Z",
+            "content": "Welcome back to Chain Reaction.\r\nTo get a roundup of TechCrunchs biggest and most important crypto stories delivered to your inbox every Thursday at 12 p.m. PT, subscribe here.\r\nHello, frens and chee… [+4001 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Amazon wins interim stay on delivering a public ads archive in early challenge to EU's Digital Services Act",
+            "description": "Amazon has chalked up an early (partial) win in a court challenge related to the European Union's designation of its ecommerce marketplace as subject to the ...",
+            "url": "https://techcrunch.com/2023/09/28/amazon-dsa-interim-measures/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/w5P4V2hC6Q2yfcZo1rF4MQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/961b2b8b61e023c5402d3f9d27defcac",
+            "publishedAt": "2023-09-28T17:12:33Z",
+            "content": "Amazon has chalked up an early (partial) win in a court challenge related to the European Union's designation of its ecommerce marketplace as subject to the strictest level of regulation under the bl… [+4292 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Artifact co-founder Mike Krieger says there’s a ‘flavor’ of Twitter in app’s latest release",
+            "description": "The AI-powered news reading app Artifact, built by Instagram’s co-founders, has been transforming itself into a more social experience over time with recent launches like profiles, commenting, link sharing and more. But yesterday, the app launched one of its …",
+            "url": "https://techcrunch.com/2023/09/28/artifact-co-founder-mike-krieger-says-theres-a-flavor-of-twitter-in-apps-latest-release/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/1704678804.jpg?resize=1200,799",
+            "publishedAt": "2023-09-28T16:21:41Z",
+            "content": "The AI-powered news reading app Artifact, built by Instagram’s co-founders, has been transforming itself into a more social experience over time with recent launches like profiles, commenting, link s… [+2134 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Carly Page",
+            "title": "Google patches zero-day exploited by commercial spyware vendor",
+            "description": "Google patched a zero-day vulnerability that the company said it was used to install spyware made by a commercial surveillance tech vendor.",
+            "url": "https://techcrunch.com/2023/09/28/google-patches-zero-day-exploited-by-commercial-spyware-vendor/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1211180803.jpg?resize=1200,800",
+            "publishedAt": "2023-09-28T16:00:00Z",
+            "content": "Google has rushed to patch a zero-day vulnerability in Chrome that was exploited by a commercial spyware vendor.\r\nThe vulnerability was reported to the Chrome team by Clement Lecigne of Googles Threa… [+2794 chars]"
+        }
+    ]
+}
