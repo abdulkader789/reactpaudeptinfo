@@ -4,61 +4,38 @@ import './styles.css'; // Import the Tailwind CSS file
 
 import Main from "./components/Layout/Main"
 import Home from "./components/Home/Home"
-import Cse from "./components/Cse/Cse"
-import Contact from "./components/Contact/Contact";
-import About from "./components/About/About";
-import Blog from "./components/Blog/Blog";
-import Paudeptinfo from "./components/Paudeptinfo/Paudeptinfo";
 import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
 import "./index.css";
-import Faculty from "./components/Faculty/Faculty";
-import Club from "./components/Club/Club";
+import { Login, Register } from "./pages/Auth";
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Main></Main>,
-    children:[
+    children: [
       {
-        path:"/",
-        element:<Home></Home>
+        path: "/",
+        element: <Home></Home>
+      },
+
+
+      {
+        path: 'auth/login',
+        element: <Login></Login>
       },
       {
-        path:"cse",
-        element:<Cse></Cse>
+        path: 'auth/register',
+        element: <Register></Register>
       },
-      {
-        path:'faculty',
-        element:<Faculty></Faculty>
-      },
-      {
-        path:'club',
-        element:<Club></Club>
-      },
-      {
-        path:'contact',
-        element:<Contact></Contact>
-      },
-      {
-        path:'about',
-        element:<About></About>
-      },
-      {
-        path:'blog',
-        element:<Blog></Blog>
-      },
-      {
-        path:'paudeptinfo',
-        element:<Paudeptinfo></Paudeptinfo>
-      }
+
     ]
   },
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-        <RouterProvider router={router} />
+    <RouterProvider router={router} />
   </React.StrictMode>,
 )

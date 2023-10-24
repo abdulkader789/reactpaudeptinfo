@@ -37,7 +37,7 @@ function Paudeptinfo() {
           <div className='overlay'></div>
          <img className='h-full w-full' 
          src="https://realtycapital.com/wp-content/uploads/2016/09/blue-header-2.jpg"></img>
-         <h1 className='font-extrabold text-2xl md:text-5xl absolute bottom-5 text-white z-10'>MEET OUR MEMBERS</h1>
+         <h1 className='font-extrabold text-2xl md:text-5xl absolute top-5  text-white z-10'>MEET OUR MEMBERS</h1>
 
           </div>  
     <div className='flex relative'>

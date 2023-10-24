@@ -4,7 +4,7 @@
 .stick {
   position: sticky;
   z-index: 1;
-  top: 60px;
+  top: 0;
 }
 .paudeptinfo {
   top: 100px;
